@@ -28,7 +28,7 @@ def minimizeCost(infras, service):
     for u in range(len(_nodes)):
         for p in range(len(_functions)):
             for o in range(len(_objs)):
-                b = 1 if _functions[p].output is _objs[o] else 0
+                b = 1 if _objs[o] in _functions[p].output else 0
                 objective.append(a[u][p]*b*_objs[o].size*_functions[p].complexity/_nodes[u].cost)
 
     for e in range(len(_edges)):
@@ -48,7 +48,7 @@ def minimizeCost(infras, service):
             pr_in = []
             pr_out = []
             for p in range(len(_functions)):
-                b = 1 if _functions[p].output is _objs[o] else 0
+                b = 1 if _objs[o] in _functions[p].output else 0
                 c = 1 if _objs[o] in _functions[p].input else 0
                 pr_in.append(a[u][p]*b)
                 pr_out.append(a[u][p]*c)
@@ -60,7 +60,7 @@ def minimizeCost(infras, service):
         _tmp = []
         for p in range(len(_functions)):
             for o in range(len(_objs)):
-                b = 1 if _functions[p].output is _objs[o] else 0
+                b = 1 if _objs[o] in _functions[p].output else 0
                 _tmp.append(a[u][p]*b*_objs[o].size*_functions[p].complexity)
 
         prob += pulp.lpSum(_tmp) <= _nodes[u].capacity - _nodes[u].allocated
@@ -73,17 +73,12 @@ def minimizeCost(infras, service):
     prob += pulp.lpSum([a[u][p]*_nodes[u].delay for p in range(len(_functions)) for u in range(len(_nodes))] + [t[e][o]*_edges[e].delay for o in range(len(_objs)) for e in range(len(_edges))]) <= service.latency
 
 
-    status = prob.solve(pulp.GLPK(msg=1, keepFiles=1))
+    status = prob.solve(pulp.GLPK(msg=0, keepFiles=1))
     if status == 1:
         print pulp.value(prob.objective) 
-        for u in range(len(_nodes)):
-            for p in range(len(_functions)):
-                if a[u][p].varValue != 0: 
-                    print a[u][p].name + ": " + str(a[u][p].varValue)
-        for e in range(len(_edges)):
-            for o in range(len(_objs)):
-                if t[e][o].varValue != 0:
-                    print t[e][o].name + ": " + str(t[e][o].varValue)
+        #for v in prob.variables():
+        #    if v.varValue:
+        #        print v.name + ": " + str(v.varValue)
         return pulp.value(prob.objective)
     else:
         print "the prob can't not be solved"

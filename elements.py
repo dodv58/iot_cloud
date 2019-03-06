@@ -41,15 +41,18 @@ class Edge:
         self.type = edgeType
         self.name = source.name + "___" + dest.name
         if edgeType == EdgeType.OPTICAL:
-            self.capacity = 4480*1000000.0
+            #self.capacity = 4480*1000000.0
+            self.capacity = 4480*1.0
             self.cost = 12.6
             self.delay = 1.0
         elif edgeType == EdgeType.WIFI:
-            self.capacity = 150*1000.0
+            #self.capacity = 150*1000.0
+            self.capacity = 1500.0
             self.cost = 19.0*1000
             self.delay = 1.5
         elif edgeType == EdgeType.GGGG:
-            self.capacity = 12*1000.0
+            #self.capacity = 12*1000.0
+            self.capacity = 1200.0
             self.cost = 300.0
             self.delay = 1.7
         self.allocated = 0
@@ -64,10 +67,14 @@ class Infrastructure:
             for o in range(len(service.objs)):
                 if service.objs[o].dest and len(service.objs[o].dest) > 1:
                     _obj = service.objs.pop(o)
+                    for p in service.functions:
+                        if _obj in p.output:
+                            _p = p
                     for d in _obj.dest:
                         obj_copy = InformationObject(_obj.name + "_copy_" + d.name, _obj.source, [d], [], _obj.size, 0)
                         service.objs.append(obj_copy)
-
+                        _p.output.append(obj_copy)
+                    _p.output.remove(_obj)
             cost = model.minimizeCost(self, service)
         else:
             cost = ic_model.minimizeCost(self, service)

@@ -135,11 +135,11 @@ def minimizeCost(infras, service):
     status = prob.solve(pulp.GLPK(msg=0, keepFiles=1))
     if status == 1:
         print pulp.value(prob.objective) 
-        for v in prob.variables():
-            if v.varValue:
-                print v.name + ": " + str(v.varValue)
+        #for v in prob.variables():
+        #    if v.varValue:
+        #        print v.name + ": " + str(v.varValue)
         return pulp.value(prob.objective) 
     else:
         print "the prob can't not be solved"
-        quit()
+        return -1
     

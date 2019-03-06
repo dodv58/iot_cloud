@@ -3,6 +3,7 @@ import elements as elements
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
+import copy
 
 CENTER_NODE = 1
 EDGE_NODE = 4
@@ -47,6 +48,7 @@ nodes = center_nodes + edge_nodes + sensors + devices
 infras = elements.Infrastructure(nodes, edges, None)
 
 #define a service
+
 camera_br = 10
 intermediate_br = 50
 final_br = 100
@@ -60,15 +62,14 @@ obj_5 = elements.InformationObject("obj_5",None, devices, [obj_4], final_br, 5)
 objs = [obj_1, obj_2, obj_3, obj_4, obj_5]
 
 functions = []
-functions.append(elements.VirtualFunction("func_1", [obj_1, obj_2, obj_3], obj_4, 0.5))
-functions.append(elements.VirtualFunction("func_2", [obj_4], obj_5, 5))
+functions.append(elements.VirtualFunction("func_1", [obj_1, obj_2, obj_3], [obj_4], 0.5))
+functions.append(elements.VirtualFunction("func_2", [obj_4], [obj_5], 5))
 
-service = elements.Service("test", functions, objs, 100000) 
+service_1 = elements.Service("test", list(functions), list(objs), 100000) 
+service_2 = elements.Service("test", list(functions), list(objs), 100000) 
 data = [[]]
-data[0].append(infras.addService(service, 1))
-data[0].append(infras.addService(service, 0))
-
-solutions = ['my model', 'IoT Cloud']
+data[0].append(infras.addService(service_1, 1))
+data[0].append(infras.addService(service_2, 0))
 
 #====================================================================
 def generate_barchart(array, classes, types):
@@ -84,4 +85,5 @@ def generate_barchart(array, classes, types):
     plt.show()
 #====================================================================
 
-generate_barchart(data, ['ba'], solutions)
+#solutions = ['my model', 'IoT Cloud']
+#generate_barchart(data, ['ba'], solutions)

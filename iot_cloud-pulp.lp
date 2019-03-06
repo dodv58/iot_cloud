@@ -1,0 +1,11552 @@
+\* iot_cloud *\
+Minimize
+OBJ: 0.0520833333333 f_pr_z_camera_0__obj_4_
+ + 0.0520833333333 f_pr_z_camera_10__obj_4_
+ + 0.0520833333333 f_pr_z_camera_11__obj_4_
+ + 0.0520833333333 f_pr_z_camera_12__obj_4_
+ + 0.0520833333333 f_pr_z_camera_13__obj_4_
+ + 0.0520833333333 f_pr_z_camera_14__obj_4_
+ + 0.0520833333333 f_pr_z_camera_15__obj_4_
+ + 0.0520833333333 f_pr_z_camera_16__obj_4_
+ + 0.0520833333333 f_pr_z_camera_17__obj_4_
+ + 0.0520833333333 f_pr_z_camera_18__obj_4_
+ + 0.0520833333333 f_pr_z_camera_19__obj_4_
+ + 0.0520833333333 f_pr_z_camera_1__obj_4_
+ + 0.0520833333333 f_pr_z_camera_2__obj_4_
+ + 0.0520833333333 f_pr_z_camera_3__obj_4_
+ + 0.0520833333333 f_pr_z_camera_4__obj_4_
+ + 0.0520833333333 f_pr_z_camera_5__obj_4_
+ + 0.0520833333333 f_pr_z_camera_6__obj_4_
+ + 0.0520833333333 f_pr_z_camera_7__obj_4_
+ + 0.0520833333333 f_pr_z_camera_8__obj_4_
+ + 0.0520833333333 f_pr_z_camera_9__obj_4_ + 0.05 f_pr_z_center__obj_4_
+ + 0.25 f_pr_z_device_0__obj_4_ + 0.25 f_pr_z_device_1__obj_4_
+ + 0.25 f_pr_z_device_2__obj_4_ + 0.25 f_pr_z_device_3__obj_4_
+ + 0.25 f_pr_z_edge_0__obj_4_ + 0.25 f_pr_z_edge_1__obj_4_
+ + 0.25 f_pr_z_edge_2__obj_4_ + 0.25 f_pr_z_edge_3__obj_4_
+ + 0.000126 f_tr_z_center___edge_0__obj_1_
+ + 0.000126 f_tr_z_center___edge_0__obj_2_
+ + 0.000126 f_tr_z_center___edge_0__obj_3_
+ + 0.00063 f_tr_z_center___edge_0__obj_4_
+ + 0.00126 f_tr_z_center___edge_0__obj_5_copy_device_0_
+ + 0.00126 f_tr_z_center___edge_0__obj_5_copy_device_1_
+ + 0.00126 f_tr_z_center___edge_0__obj_5_copy_device_2_
+ + 0.00126 f_tr_z_center___edge_0__obj_5_copy_device_3_
+ + 0.000126 f_tr_z_center___edge_1__obj_1_
+ + 0.000126 f_tr_z_center___edge_1__obj_2_
+ + 0.000126 f_tr_z_center___edge_1__obj_3_
+ + 0.00063 f_tr_z_center___edge_1__obj_4_
+ + 0.00126 f_tr_z_center___edge_1__obj_5_copy_device_0_
+ + 0.00126 f_tr_z_center___edge_1__obj_5_copy_device_1_
+ + 0.00126 f_tr_z_center___edge_1__obj_5_copy_device_2_
+ + 0.00126 f_tr_z_center___edge_1__obj_5_copy_device_3_
+ + 0.000126 f_tr_z_center___edge_2__obj_1_
+ + 0.000126 f_tr_z_center___edge_2__obj_2_
+ + 0.000126 f_tr_z_center___edge_2__obj_3_
+ + 0.00063 f_tr_z_center___edge_2__obj_4_
+ + 0.00126 f_tr_z_center___edge_2__obj_5_copy_device_0_
+ + 0.00126 f_tr_z_center___edge_2__obj_5_copy_device_1_
+ + 0.00126 f_tr_z_center___edge_2__obj_5_copy_device_2_
+ + 0.00126 f_tr_z_center___edge_2__obj_5_copy_device_3_
+ + 0.000126 f_tr_z_center___edge_3__obj_1_
+ + 0.000126 f_tr_z_center___edge_3__obj_2_
+ + 0.000126 f_tr_z_center___edge_3__obj_3_
+ + 0.00063 f_tr_z_center___edge_3__obj_4_
+ + 0.00126 f_tr_z_center___edge_3__obj_5_copy_device_0_
+ + 0.00126 f_tr_z_center___edge_3__obj_5_copy_device_1_
+ + 0.00126 f_tr_z_center___edge_3__obj_5_copy_device_2_
+ + 0.00126 f_tr_z_center___edge_3__obj_5_copy_device_3_
+ + 0.000126 f_tr_z_edge_0___center__obj_1_
+ + 0.000126 f_tr_z_edge_0___center__obj_2_
+ + 0.000126 f_tr_z_edge_0___center__obj_3_
+ + 0.00063 f_tr_z_edge_0___center__obj_4_
+ + 0.00126 f_tr_z_edge_0___center__obj_5_copy_device_0_
+ + 0.00126 f_tr_z_edge_0___center__obj_5_copy_device_1_
+ + 0.00126 f_tr_z_edge_0___center__obj_5_copy_device_2_
+ + 0.00126 f_tr_z_edge_0___center__obj_5_copy_device_3_
+ + 0.000126 f_tr_z_edge_0___edge_2__obj_1_
+ + 0.000126 f_tr_z_edge_0___edge_2__obj_2_
+ + 0.000126 f_tr_z_edge_0___edge_2__obj_3_
+ + 0.00063 f_tr_z_edge_0___edge_2__obj_4_
+ + 0.00126 f_tr_z_edge_0___edge_2__obj_5_copy_device_0_
+ + 0.00126 f_tr_z_edge_0___edge_2__obj_5_copy_device_1_
+ + 0.00126 f_tr_z_edge_0___edge_2__obj_5_copy_device_2_
+ + 0.00126 f_tr_z_edge_0___edge_2__obj_5_copy_device_3_
+ + 0.000126 f_tr_z_edge_0___edge_3__obj_1_
+ + 0.000126 f_tr_z_edge_0___edge_3__obj_2_
+ + 0.000126 f_tr_z_edge_0___edge_3__obj_3_
+ + 0.00063 f_tr_z_edge_0___edge_3__obj_4_
+ + 0.00126 f_tr_z_edge_0___edge_3__obj_5_copy_device_0_
+ + 0.00126 f_tr_z_edge_0___edge_3__obj_5_copy_device_1_
+ + 0.00126 f_tr_z_edge_0___edge_3__obj_5_copy_device_2_
+ + 0.00126 f_tr_z_edge_0___edge_3__obj_5_copy_device_3_
+ + 0.000126 f_tr_z_edge_1___center__obj_1_
+ + 0.000126 f_tr_z_edge_1___center__obj_2_
+ + 0.000126 f_tr_z_edge_1___center__obj_3_
+ + 0.00063 f_tr_z_edge_1___center__obj_4_
+ + 0.00126 f_tr_z_edge_1___center__obj_5_copy_device_0_
+ + 0.00126 f_tr_z_edge_1___center__obj_5_copy_device_1_
+ + 0.00126 f_tr_z_edge_1___center__obj_5_copy_device_2_
+ + 0.00126 f_tr_z_edge_1___center__obj_5_copy_device_3_
+ + 0.000126 f_tr_z_edge_2___center__obj_1_
+ + 0.000126 f_tr_z_edge_2___center__obj_2_
+ + 0.000126 f_tr_z_edge_2___center__obj_3_
+ + 0.00063 f_tr_z_edge_2___center__obj_4_
+ + 0.00126 f_tr_z_edge_2___center__obj_5_copy_device_0_
+ + 0.00126 f_tr_z_edge_2___center__obj_5_copy_device_1_
+ + 0.00126 f_tr_z_edge_2___center__obj_5_copy_device_2_
+ + 0.00126 f_tr_z_edge_2___center__obj_5_copy_device_3_
+ + 0.000126 f_tr_z_edge_2___edge_0__obj_1_
+ + 0.000126 f_tr_z_edge_2___edge_0__obj_2_
+ + 0.000126 f_tr_z_edge_2___edge_0__obj_3_
+ + 0.00063 f_tr_z_edge_2___edge_0__obj_4_
+ + 0.00126 f_tr_z_edge_2___edge_0__obj_5_copy_device_0_
+ + 0.00126 f_tr_z_edge_2___edge_0__obj_5_copy_device_1_
+ + 0.00126 f_tr_z_edge_2___edge_0__obj_5_copy_device_2_
+ + 0.00126 f_tr_z_edge_2___edge_0__obj_5_copy_device_3_
+ + 0.000126 f_tr_z_edge_3___center__obj_1_
+ + 0.000126 f_tr_z_edge_3___center__obj_2_
+ + 0.000126 f_tr_z_edge_3___center__obj_3_
+ + 0.00063 f_tr_z_edge_3___center__obj_4_
+ + 0.00126 f_tr_z_edge_3___center__obj_5_copy_device_0_
+ + 0.00126 f_tr_z_edge_3___center__obj_5_copy_device_1_
+ + 0.00126 f_tr_z_edge_3___center__obj_5_copy_device_2_
+ + 0.00126 f_tr_z_edge_3___center__obj_5_copy_device_3_
+ + 0.000126 f_tr_z_edge_3___edge_0__obj_1_
+ + 0.000126 f_tr_z_edge_3___edge_0__obj_2_
+ + 0.000126 f_tr_z_edge_3___edge_0__obj_3_
+ + 0.00063 f_tr_z_edge_3___edge_0__obj_4_
+ + 0.00126 f_tr_z_edge_3___edge_0__obj_5_copy_device_0_
+ + 0.00126 f_tr_z_edge_3___edge_0__obj_5_copy_device_1_
+ + 0.00126 f_tr_z_edge_3___edge_0__obj_5_copy_device_2_
+ + 0.00126 f_tr_z_edge_3___edge_0__obj_5_copy_device_3_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_0___edge_0__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_0___edge_0__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_0___edge_0__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_0___edge_0__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_10___edge_2__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_10___edge_2__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_10___edge_2__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_10___edge_2__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_11___edge_2__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_11___edge_2__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_11___edge_2__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_11___edge_2__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_12___edge_2__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_12___edge_2__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_12___edge_2__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_12___edge_2__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_13___edge_2__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_13___edge_2__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_13___edge_2__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_13___edge_2__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_14___edge_2__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_14___edge_2__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_14___edge_2__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_14___edge_2__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_15___edge_3__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_15___edge_3__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_15___edge_3__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_15___edge_3__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_15___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_16___edge_3__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_16___edge_3__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_16___edge_3__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_16___edge_3__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_16___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_17___edge_3__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_17___edge_3__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_17___edge_3__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_17___edge_3__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_17___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_18___edge_3__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_18___edge_3__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_18___edge_3__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_18___edge_3__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_18___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_19___edge_3__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_19___edge_3__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_19___edge_3__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_19___edge_3__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_19___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_1___edge_0__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_1___edge_0__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_1___edge_0__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_1___edge_0__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_1___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_2___edge_0__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_2___edge_0__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_2___edge_0__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_2___edge_0__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_3___edge_0__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_3___edge_0__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_3___edge_0__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_3___edge_0__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_3___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_4___edge_0__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_4___edge_0__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_4___edge_0__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_4___edge_0__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_4___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_5___edge_1__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_5___edge_1__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_5___edge_1__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_5___edge_1__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_5___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_6___edge_1__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_6___edge_1__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_6___edge_1__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_6___edge_1__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_6___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_7___edge_1__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_7___edge_1__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_7___edge_1__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_7___edge_1__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_7___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_8___edge_1__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_8___edge_1__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_8___edge_1__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_8___edge_1__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_8___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_9___edge_1__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_9___edge_1__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_camera_9___edge_1__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_camera_9___edge_1__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_camera_9___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_device_0___edge_0__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_device_0___edge_0__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_device_0___edge_0__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_device_0___edge_0__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_device_0___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_device_1___edge_1__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_device_1___edge_1__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_device_1___edge_1__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_device_1___edge_1__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_device_1___edge_1__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_0__device_0_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_0__device_1_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_0__device_2_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_0__device_3_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_1__device_0_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_1__device_1_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_1__device_2_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_1__device_3_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_2__device_0_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_2__device_1_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_2__device_2_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_2__device_3_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_3__device_0_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_3__device_1_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_3__device_2_
+ + 0.003 tr_device_2___edge_2__obj_1__obj_5_copy_device_3__device_3_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_0__device_0_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_0__device_1_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_0__device_2_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_0__device_3_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_1__device_0_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_1__device_1_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_1__device_2_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_1__device_3_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_2__device_0_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_2__device_1_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_2__device_2_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_2__device_3_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_3__device_0_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_3__device_1_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_3__device_2_
+ + 0.003 tr_device_2___edge_2__obj_2__obj_5_copy_device_3__device_3_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_0__device_0_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_0__device_1_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_0__device_2_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_0__device_3_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_1__device_0_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_1__device_1_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_1__device_2_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_1__device_3_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_2__device_0_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_2__device_1_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_2__device_2_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_2__device_3_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_3__device_0_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_3__device_1_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_3__device_2_
+ + 0.003 tr_device_2___edge_2__obj_3__obj_5_copy_device_3__device_3_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_0__device_0_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_1__device_2_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_1__device_3_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_2__device_0_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_2__device_1_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_2__device_2_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_2__device_3_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_3__device_0_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_3__device_1_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_3__device_2_
+ + 0.015 tr_device_2___edge_2__obj_4__obj_5_copy_device_3__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 0.03 tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_0__device_1_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_0__device_2_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_0__device_3_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_1__device_0_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_1__device_2_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_1__device_3_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_2__device_0_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_2__device_1_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_2__device_2_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_2__device_3_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_3__device_0_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_3__device_1_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_3__device_2_
+ + 0.003 tr_device_3___edge_3__obj_1__obj_5_copy_device_3__device_3_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_0__device_0_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_0__device_1_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_0__device_2_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_0__device_3_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_1__device_0_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_1__device_1_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_1__device_2_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_1__device_3_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_2__device_0_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_2__device_1_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_2__device_2_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_2__device_3_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_3__device_0_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_3__device_1_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_3__device_2_
+ + 0.003 tr_device_3___edge_3__obj_2__obj_5_copy_device_3__device_3_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_0__device_0_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_0__device_1_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_0__device_2_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_0__device_3_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_1__device_0_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_1__device_1_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_1__device_2_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_1__device_3_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_2__device_0_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_2__device_1_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_2__device_2_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_2__device_3_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_3__device_0_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_3__device_1_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_3__device_2_
+ + 0.003 tr_device_3___edge_3__obj_3__obj_5_copy_device_3__device_3_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_0__device_0_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_0__device_1_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_0__device_2_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_0__device_3_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_1__device_0_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_1__device_1_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_1__device_2_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_1__device_3_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_2__device_0_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_2__device_1_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_2__device_2_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_2__device_3_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_3__device_0_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_3__device_1_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_3__device_2_
+ + 0.015 tr_device_3___edge_3__obj_4__obj_5_copy_device_3__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 0.03 tr_device_3___edge_3__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_0__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_0__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_0__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_0___camera_0__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_0__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_1__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_1__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_1__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_0___camera_1__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_1__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_2__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_2__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_2__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_0___camera_2__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_3__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_3__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_3__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_0___camera_3__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_3__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_4__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_4__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___camera_4__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_0___camera_4__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___camera_4__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___device_0__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___device_0__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_0___device_0__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_0___device_0__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_0___device_0__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_5__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_5__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_5__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_1___camera_5__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_5__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_6__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_6__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_6__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_1___camera_6__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_6__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_7__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_7__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_7__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_1___camera_7__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_7__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_8__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_8__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_8__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_1___camera_8__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_8__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_9__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_9__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___camera_9__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_1___camera_9__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___camera_9__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___device_1__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___device_1__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_1___device_1__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_1___device_1__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_1___device_1__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_10__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_10__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_10__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_2___camera_10__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_11__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_11__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_11__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_2___camera_11__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_12__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_12__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_12__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_2___camera_12__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_13__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_13__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_13__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_2___camera_13__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_14__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_14__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_2___camera_14__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_2___camera_14__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_0__device_0_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_0__device_1_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_0__device_2_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_0__device_3_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_1__device_0_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_1__device_1_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_1__device_2_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_1__device_3_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_2__device_0_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_2__device_1_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_2__device_2_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_2__device_3_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_3__device_0_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_3__device_1_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_3__device_2_
+ + 0.003 tr_edge_2___device_2__obj_1__obj_5_copy_device_3__device_3_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_0__device_0_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_0__device_1_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_0__device_2_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_0__device_3_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_1__device_0_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_1__device_1_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_1__device_2_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_1__device_3_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_2__device_0_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_2__device_1_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_2__device_2_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_2__device_3_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_3__device_0_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_3__device_1_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_3__device_2_
+ + 0.003 tr_edge_2___device_2__obj_2__obj_5_copy_device_3__device_3_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_0__device_0_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_0__device_1_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_0__device_2_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_0__device_3_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_1__device_0_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_1__device_1_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_1__device_2_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_1__device_3_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_2__device_0_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_2__device_1_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_2__device_2_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_2__device_3_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_3__device_0_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_3__device_1_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_3__device_2_
+ + 0.003 tr_edge_2___device_2__obj_3__obj_5_copy_device_3__device_3_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_0__device_0_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_0__device_1_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_0__device_2_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_0__device_3_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_1__device_0_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_1__device_1_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_1__device_2_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_1__device_3_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_2__device_0_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_2__device_1_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_2__device_2_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_2__device_3_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_3__device_0_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_3__device_1_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_3__device_2_
+ + 0.015 tr_edge_2___device_2__obj_4__obj_5_copy_device_3__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 0.03 tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_15__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_15__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_15__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_3___camera_15__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_15__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_16__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_16__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_16__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_3___camera_16__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_16__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_17__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_17__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_17__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_3___camera_17__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_17__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_18__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_18__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_18__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_3___camera_18__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_18__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_19__obj_1__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_19__obj_2__obj_5_copy_device_3__device_3_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_0__device_0_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_0__device_1_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_0__device_2_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_0__device_3_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_1__device_0_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_1__device_1_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_1__device_2_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_1__device_3_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_2__device_0_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_2__device_1_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_2__device_2_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_2__device_3_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_3__device_0_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_3__device_1_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_3__device_2_
+ + 0.19 tr_edge_3___camera_19__obj_3__obj_5_copy_device_3__device_3_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_0__device_0_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_0__device_1_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_0__device_2_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_0__device_3_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_1__device_0_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_1__device_1_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_1__device_2_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_1__device_3_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_2__device_0_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_2__device_1_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_2__device_2_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_2__device_3_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_3__device_0_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_3__device_1_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_3__device_2_
+ + 0.95 tr_edge_3___camera_19__obj_4__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 1.9 tr_edge_3___camera_19__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_0__device_0_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_0__device_1_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_0__device_2_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_0__device_3_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_1__device_0_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_1__device_1_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_1__device_2_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_1__device_3_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_2__device_0_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_2__device_1_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_2__device_2_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_2__device_3_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_3__device_0_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_3__device_1_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_3__device_2_
+ + 0.003 tr_edge_3___device_3__obj_1__obj_5_copy_device_3__device_3_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_0__device_0_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_0__device_1_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_0__device_2_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_0__device_3_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_1__device_0_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_1__device_1_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_1__device_2_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_1__device_3_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_2__device_0_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_2__device_1_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_2__device_2_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_2__device_3_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_3__device_0_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_3__device_1_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_3__device_2_
+ + 0.003 tr_edge_3___device_3__obj_2__obj_5_copy_device_3__device_3_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_0__device_0_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_0__device_1_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_0__device_2_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_0__device_3_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_1__device_0_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_1__device_1_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_1__device_2_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_1__device_3_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_2__device_0_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_2__device_1_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_2__device_2_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_2__device_3_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_3__device_0_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_3__device_1_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_3__device_2_
+ + 0.003 tr_edge_3___device_3__obj_3__obj_5_copy_device_3__device_3_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_0__device_0_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_0__device_1_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_0__device_2_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_0__device_3_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_1__device_0_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_1__device_1_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_1__device_2_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_1__device_3_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_2__device_0_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_2__device_1_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_2__device_2_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_2__device_3_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_3__device_0_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_3__device_1_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_3__device_2_
+ + 0.015 tr_edge_3___device_3__obj_4__obj_5_copy_device_3__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + 0.03 tr_edge_3___device_3__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+
+Subject To
+_C1: pr_in_center__obj_1__obj_5_copy_device_0__device_0_
+ - pr_out_center__obj_1__obj_5_copy_device_0__device_0_
+ - sn_center__obj_1__obj_5_copy_device_0__device_0_
+ + tr_center___edge_0__obj_1__obj_5_copy_device_0__device_0_
+ + tr_center___edge_1__obj_1__obj_5_copy_device_0__device_0_
+ + tr_center___edge_2__obj_1__obj_5_copy_device_0__device_0_
+ + tr_center___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ - tr_edge_0___center__obj_1__obj_5_copy_device_0__device_0_
+ - tr_edge_1___center__obj_1__obj_5_copy_device_0__device_0_
+ - tr_edge_2___center__obj_1__obj_5_copy_device_0__device_0_
+ - tr_edge_3___center__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C10: sn_center__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C100: - pr_in_center__obj_3__obj_5_copy_device_0__device_0_
+ + pr_out_center__obj_4__obj_5_copy_device_0__device_0_ <= 0
+_C1000: sn_edge_2__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C10000: pr_out_camera_9__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C10001: pr_out_camera_9__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C10002: pr_out_camera_9__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C10003: pr_out_camera_9__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C10004: pr_out_camera_9__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C10005: pr_out_camera_9__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C10006: pr_out_camera_9__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C10007: pr_out_camera_9__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C10008: pr_out_camera_9__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C10009: pr_out_camera_9__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C1001: pr_in_edge_2__obj_3__obj_5_copy_device_3__device_0_
+ - pr_out_edge_2__obj_3__obj_5_copy_device_3__device_0_
+ - sn_edge_2__obj_3__obj_5_copy_device_3__device_0_
+ - tr_camera_10___edge_2__obj_3__obj_5_copy_device_3__device_0_
+ - tr_camera_11___edge_2__obj_3__obj_5_copy_device_3__device_0_
+ - tr_camera_12___edge_2__obj_3__obj_5_copy_device_3__device_0_
+ - tr_camera_13___edge_2__obj_3__obj_5_copy_device_3__device_0_
+ - tr_camera_14___edge_2__obj_3__obj_5_copy_device_3__device_0_
+ - tr_center___edge_2__obj_3__obj_5_copy_device_3__device_0_
+ - tr_device_2___edge_2__obj_3__obj_5_copy_device_3__device_0_
+ - tr_edge_0___edge_2__obj_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_10__obj_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_11__obj_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_12__obj_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_13__obj_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_14__obj_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___center__obj_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___device_2__obj_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___edge_0__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C10010: pr_out_camera_9__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C10011: pr_out_camera_9__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C10012: pr_out_camera_9__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C10013: pr_out_camera_9__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C10014: pr_out_camera_9__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C10015: pr_out_camera_9__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C10016: pr_out_camera_9__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C10017: pr_out_camera_9__obj_4__obj_5_copy_device_0__device_0_ = 0
+_C10018: pr_out_camera_9__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C10019: pr_out_camera_9__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C1002: sn_edge_2__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C10020: pr_out_camera_9__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C10021: pr_out_camera_9__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C10022: pr_out_camera_9__obj_4__obj_5_copy_device_1__device_1_ = 0
+_C10023: pr_out_camera_9__obj_4__obj_5_copy_device_1__device_2_ = 0
+_C10024: pr_out_camera_9__obj_4__obj_5_copy_device_1__device_3_ = 0
+_C10025: pr_out_camera_9__obj_4__obj_5_copy_device_2__device_0_ = 0
+_C10026: pr_out_camera_9__obj_4__obj_5_copy_device_2__device_1_ = 0
+_C10027: pr_out_camera_9__obj_4__obj_5_copy_device_2__device_2_ = 0
+_C10028: pr_out_camera_9__obj_4__obj_5_copy_device_2__device_3_ = 0
+_C10029: pr_out_camera_9__obj_4__obj_5_copy_device_3__device_0_ = 0
+_C1003: pr_in_edge_2__obj_3__obj_5_copy_device_3__device_1_
+ - pr_out_edge_2__obj_3__obj_5_copy_device_3__device_1_
+ - sn_edge_2__obj_3__obj_5_copy_device_3__device_1_
+ - tr_camera_10___edge_2__obj_3__obj_5_copy_device_3__device_1_
+ - tr_camera_11___edge_2__obj_3__obj_5_copy_device_3__device_1_
+ - tr_camera_12___edge_2__obj_3__obj_5_copy_device_3__device_1_
+ - tr_camera_13___edge_2__obj_3__obj_5_copy_device_3__device_1_
+ - tr_camera_14___edge_2__obj_3__obj_5_copy_device_3__device_1_
+ - tr_center___edge_2__obj_3__obj_5_copy_device_3__device_1_
+ - tr_device_2___edge_2__obj_3__obj_5_copy_device_3__device_1_
+ - tr_edge_0___edge_2__obj_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_10__obj_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_11__obj_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_12__obj_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_13__obj_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_14__obj_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___center__obj_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___device_2__obj_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___edge_0__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C10030: pr_out_camera_9__obj_4__obj_5_copy_device_3__device_1_ = 0
+_C10031: pr_out_camera_9__obj_4__obj_5_copy_device_3__device_2_ = 0
+_C10032: pr_out_camera_9__obj_4__obj_5_copy_device_3__device_3_ = 0
+_C10033: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ = 0
+_C10034: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ = 0
+_C10035: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ = 0
+_C10036: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ = 0
+_C10037: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ = 0
+_C10038: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ = 0
+_C10039: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ = 0
+_C1004: sn_edge_2__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C10040: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ = 0
+_C10041: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ = 0
+_C10042: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ = 0
+_C10043: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ = 0
+_C10044: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ = 0
+_C10045: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ = 0
+_C10046: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ = 0
+_C10047: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ = 0
+_C10048: pr_out_camera_9__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ = 0
+_C10049: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ = 0
+_C1005: pr_in_edge_2__obj_3__obj_5_copy_device_3__device_2_
+ - pr_out_edge_2__obj_3__obj_5_copy_device_3__device_2_
+ - sn_edge_2__obj_3__obj_5_copy_device_3__device_2_
+ - tr_camera_10___edge_2__obj_3__obj_5_copy_device_3__device_2_
+ - tr_camera_11___edge_2__obj_3__obj_5_copy_device_3__device_2_
+ - tr_camera_12___edge_2__obj_3__obj_5_copy_device_3__device_2_
+ - tr_camera_13___edge_2__obj_3__obj_5_copy_device_3__device_2_
+ - tr_camera_14___edge_2__obj_3__obj_5_copy_device_3__device_2_
+ - tr_center___edge_2__obj_3__obj_5_copy_device_3__device_2_
+ - tr_device_2___edge_2__obj_3__obj_5_copy_device_3__device_2_
+ - tr_edge_0___edge_2__obj_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_10__obj_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_11__obj_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_12__obj_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_13__obj_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_14__obj_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___center__obj_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___device_2__obj_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___edge_0__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C10050: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ = 0
+_C10051: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ = 0
+_C10052: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ = 0
+_C10053: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ = 0
+_C10054: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ = 0
+_C10055: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ = 0
+_C10056: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ = 0
+_C10057: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ = 0
+_C10058: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ = 0
+_C10059: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ = 0
+_C1006: sn_edge_2__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C10060: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ = 0
+_C10061: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ = 0
+_C10062: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ = 0
+_C10063: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ = 0
+_C10064: pr_out_camera_9__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ = 0
+_C10065: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ = 0
+_C10066: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ = 0
+_C10067: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ = 0
+_C10068: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ = 0
+_C10069: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ = 0
+_C1007: pr_in_edge_2__obj_3__obj_5_copy_device_3__device_3_
+ - pr_out_edge_2__obj_3__obj_5_copy_device_3__device_3_
+ - sn_edge_2__obj_3__obj_5_copy_device_3__device_3_
+ - tr_camera_10___edge_2__obj_3__obj_5_copy_device_3__device_3_
+ - tr_camera_11___edge_2__obj_3__obj_5_copy_device_3__device_3_
+ - tr_camera_12___edge_2__obj_3__obj_5_copy_device_3__device_3_
+ - tr_camera_13___edge_2__obj_3__obj_5_copy_device_3__device_3_
+ - tr_camera_14___edge_2__obj_3__obj_5_copy_device_3__device_3_
+ - tr_center___edge_2__obj_3__obj_5_copy_device_3__device_3_
+ - tr_device_2___edge_2__obj_3__obj_5_copy_device_3__device_3_
+ - tr_edge_0___edge_2__obj_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_10__obj_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_11__obj_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_12__obj_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_13__obj_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_14__obj_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___center__obj_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___device_2__obj_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___edge_0__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C10070: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ = 0
+_C10071: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ = 0
+_C10072: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ = 0
+_C10073: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ = 0
+_C10074: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ = 0
+_C10075: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ = 0
+_C10076: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ = 0
+_C10077: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ = 0
+_C10078: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ = 0
+_C10079: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ = 0
+_C1008: sn_edge_2__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C10080: pr_out_camera_9__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ = 0
+_C10081: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ = 0
+_C10082: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ = 0
+_C10083: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ = 0
+_C10084: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ = 0
+_C10085: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ = 0
+_C10086: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ = 0
+_C10087: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ = 0
+_C10088: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ = 0
+_C10089: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ = 0
+_C1009: pr_in_edge_2__obj_4__obj_5_copy_device_0__device_0_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_0__device_0_
+ - sn_edge_2__obj_4__obj_5_copy_device_0__device_0_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_0__device_0_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_0__device_0_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_0__device_0_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_0__device_0_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_0__device_0_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_0__device_0_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_0__device_0_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_0__device_0_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_0__device_0_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_0__device_0_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_0__device_0_ = 0
+_C10090: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ = 0
+_C10091: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ = 0
+_C10092: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ = 0
+_C10093: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ = 0
+_C10094: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ = 0
+_C10095: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ = 0
+_C10096: pr_out_camera_9__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ = 0
+_C10097: pr_out_camera_10__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C10098: pr_out_camera_10__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C10099: pr_out_camera_10__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C101: sn_center__obj_4__obj_5_copy_device_0__device_0_ = 0
+_C1010: - pr_in_edge_2__obj_1__obj_5_copy_device_0__device_0_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_0__device_0_ <= 0
+_C10100: pr_out_camera_10__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C10101: pr_out_camera_10__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C10102: pr_out_camera_10__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C10103: pr_out_camera_10__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C10104: pr_out_camera_10__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C10105: pr_out_camera_10__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C10106: pr_out_camera_10__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C10107: pr_out_camera_10__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C10108: pr_out_camera_10__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C10109: pr_out_camera_10__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C1011: - pr_in_edge_2__obj_2__obj_5_copy_device_0__device_0_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_0__device_0_ <= 0
+_C10110: pr_out_camera_10__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C10111: pr_out_camera_10__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C10112: pr_out_camera_10__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C10113: pr_out_camera_10__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C10114: pr_out_camera_10__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C10115: pr_out_camera_10__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C10116: pr_out_camera_10__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C10117: pr_out_camera_10__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C10118: pr_out_camera_10__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C10119: pr_out_camera_10__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C1012: - pr_in_edge_2__obj_3__obj_5_copy_device_0__device_0_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_0__device_0_ <= 0
+_C10120: pr_out_camera_10__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C10121: pr_out_camera_10__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C10122: pr_out_camera_10__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C10123: pr_out_camera_10__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C10124: pr_out_camera_10__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C10125: pr_out_camera_10__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C10126: pr_out_camera_10__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C10127: pr_out_camera_10__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C10128: pr_out_camera_10__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C10129: pr_out_camera_10__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C1013: sn_edge_2__obj_4__obj_5_copy_device_0__device_0_ = 0
+_C10130: pr_out_camera_10__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C10131: pr_out_camera_10__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C10132: pr_out_camera_10__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C10133: pr_out_camera_10__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C10134: pr_out_camera_10__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C10135: pr_out_camera_10__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C10136: pr_out_camera_10__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C10137: pr_out_camera_10__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C10138: pr_out_camera_10__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C10139: pr_out_camera_10__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C1014: pr_in_edge_2__obj_4__obj_5_copy_device_0__device_1_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_0__device_1_
+ - sn_edge_2__obj_4__obj_5_copy_device_0__device_1_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_0__device_1_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_0__device_1_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_0__device_1_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C10140: pr_out_camera_10__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C10141: pr_out_camera_10__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C10142: pr_out_camera_10__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C10143: pr_out_camera_10__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C10144: pr_out_camera_10__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C10145: pr_out_camera_10__obj_4__obj_5_copy_device_0__device_0_ = 0
+_C10146: pr_out_camera_10__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C10147: pr_out_camera_10__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C10148: pr_out_camera_10__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C10149: pr_out_camera_10__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C1015: - pr_in_edge_2__obj_1__obj_5_copy_device_0__device_1_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_0__device_1_ <= 0
+_C10150: pr_out_camera_10__obj_4__obj_5_copy_device_1__device_1_ = 0
+_C10151: pr_out_camera_10__obj_4__obj_5_copy_device_1__device_2_ = 0
+_C10152: pr_out_camera_10__obj_4__obj_5_copy_device_1__device_3_ = 0
+_C10153: pr_out_camera_10__obj_4__obj_5_copy_device_2__device_0_ = 0
+_C10154: pr_out_camera_10__obj_4__obj_5_copy_device_2__device_1_ = 0
+_C10155: pr_out_camera_10__obj_4__obj_5_copy_device_2__device_2_ = 0
+_C10156: pr_out_camera_10__obj_4__obj_5_copy_device_2__device_3_ = 0
+_C10157: pr_out_camera_10__obj_4__obj_5_copy_device_3__device_0_ = 0
+_C10158: pr_out_camera_10__obj_4__obj_5_copy_device_3__device_1_ = 0
+_C10159: pr_out_camera_10__obj_4__obj_5_copy_device_3__device_2_ = 0
+_C1016: - pr_in_edge_2__obj_2__obj_5_copy_device_0__device_1_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_0__device_1_ <= 0
+_C10160: pr_out_camera_10__obj_4__obj_5_copy_device_3__device_3_ = 0
+_C10161: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ = 0
+_C10162: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ = 0
+_C10163: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ = 0
+_C10164: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ = 0
+_C10165: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ = 0
+_C10166: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ = 0
+_C10167: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ = 0
+_C10168: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ = 0
+_C10169: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ = 0
+_C1017: - pr_in_edge_2__obj_3__obj_5_copy_device_0__device_1_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_0__device_1_ <= 0
+_C10170: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ = 0
+_C10171: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ = 0
+_C10172: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ = 0
+_C10173: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ = 0
+_C10174: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ = 0
+_C10175: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ = 0
+_C10176: pr_out_camera_10__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ = 0
+_C10177: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ = 0
+_C10178: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ = 0
+_C10179: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ = 0
+_C1018: sn_edge_2__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C10180: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ = 0
+_C10181: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ = 0
+_C10182: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ = 0
+_C10183: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ = 0
+_C10184: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ = 0
+_C10185: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ = 0
+_C10186: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ = 0
+_C10187: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ = 0
+_C10188: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ = 0
+_C10189: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ = 0
+_C1019: pr_in_edge_2__obj_4__obj_5_copy_device_0__device_2_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_0__device_2_
+ - sn_edge_2__obj_4__obj_5_copy_device_0__device_2_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_0__device_2_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_0__device_2_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_0__device_2_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C10190: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ = 0
+_C10191: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ = 0
+_C10192: pr_out_camera_10__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ = 0
+_C10193: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ = 0
+_C10194: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ = 0
+_C10195: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ = 0
+_C10196: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ = 0
+_C10197: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ = 0
+_C10198: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ = 0
+_C10199: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ = 0
+_C102: pr_in_center__obj_4__obj_5_copy_device_0__device_1_
+ - pr_out_center__obj_4__obj_5_copy_device_0__device_1_
+ - sn_center__obj_4__obj_5_copy_device_0__device_1_
+ + tr_center___edge_0__obj_4__obj_5_copy_device_0__device_1_
+ + tr_center___edge_1__obj_4__obj_5_copy_device_0__device_1_
+ + tr_center___edge_2__obj_4__obj_5_copy_device_0__device_1_
+ + tr_center___edge_3__obj_4__obj_5_copy_device_0__device_1_
+ - tr_edge_0___center__obj_4__obj_5_copy_device_0__device_1_
+ - tr_edge_1___center__obj_4__obj_5_copy_device_0__device_1_
+ - tr_edge_2___center__obj_4__obj_5_copy_device_0__device_1_
+ - tr_edge_3___center__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C1020: - pr_in_edge_2__obj_1__obj_5_copy_device_0__device_2_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_0__device_2_ <= 0
+_C10200: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ = 0
+_C10201: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ = 0
+_C10202: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ = 0
+_C10203: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ = 0
+_C10204: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ = 0
+_C10205: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ = 0
+_C10206: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ = 0
+_C10207: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ = 0
+_C10208: pr_out_camera_10__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ = 0
+_C10209: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ = 0
+_C1021: - pr_in_edge_2__obj_2__obj_5_copy_device_0__device_2_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_0__device_2_ <= 0
+_C10210: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ = 0
+_C10211: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ = 0
+_C10212: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ = 0
+_C10213: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ = 0
+_C10214: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ = 0
+_C10215: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ = 0
+_C10216: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ = 0
+_C10217: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ = 0
+_C10218: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ = 0
+_C10219: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ = 0
+_C1022: - pr_in_edge_2__obj_3__obj_5_copy_device_0__device_2_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_0__device_2_ <= 0
+_C10220: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ = 0
+_C10221: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ = 0
+_C10222: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ = 0
+_C10223: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ = 0
+_C10224: pr_out_camera_10__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ = 0
+_C10225: pr_out_camera_11__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C10226: pr_out_camera_11__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C10227: pr_out_camera_11__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C10228: pr_out_camera_11__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C10229: pr_out_camera_11__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C1023: sn_edge_2__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C10230: pr_out_camera_11__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C10231: pr_out_camera_11__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C10232: pr_out_camera_11__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C10233: pr_out_camera_11__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C10234: pr_out_camera_11__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C10235: pr_out_camera_11__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C10236: pr_out_camera_11__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C10237: pr_out_camera_11__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C10238: pr_out_camera_11__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C10239: pr_out_camera_11__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C1024: pr_in_edge_2__obj_4__obj_5_copy_device_0__device_3_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_0__device_3_
+ - sn_edge_2__obj_4__obj_5_copy_device_0__device_3_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_0__device_3_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_0__device_3_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_0__device_3_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C10240: pr_out_camera_11__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C10241: pr_out_camera_11__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C10242: pr_out_camera_11__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C10243: pr_out_camera_11__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C10244: pr_out_camera_11__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C10245: pr_out_camera_11__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C10246: pr_out_camera_11__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C10247: pr_out_camera_11__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C10248: pr_out_camera_11__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C10249: pr_out_camera_11__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C1025: - pr_in_edge_2__obj_1__obj_5_copy_device_0__device_3_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_0__device_3_ <= 0
+_C10250: pr_out_camera_11__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C10251: pr_out_camera_11__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C10252: pr_out_camera_11__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C10253: pr_out_camera_11__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C10254: pr_out_camera_11__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C10255: pr_out_camera_11__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C10256: pr_out_camera_11__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C10257: pr_out_camera_11__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C10258: pr_out_camera_11__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C10259: pr_out_camera_11__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C1026: - pr_in_edge_2__obj_2__obj_5_copy_device_0__device_3_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_0__device_3_ <= 0
+_C10260: pr_out_camera_11__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C10261: pr_out_camera_11__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C10262: pr_out_camera_11__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C10263: pr_out_camera_11__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C10264: pr_out_camera_11__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C10265: pr_out_camera_11__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C10266: pr_out_camera_11__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C10267: pr_out_camera_11__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C10268: pr_out_camera_11__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C10269: pr_out_camera_11__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C1027: - pr_in_edge_2__obj_3__obj_5_copy_device_0__device_3_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_0__device_3_ <= 0
+_C10270: pr_out_camera_11__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C10271: pr_out_camera_11__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C10272: pr_out_camera_11__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C10273: pr_out_camera_11__obj_4__obj_5_copy_device_0__device_0_ = 0
+_C10274: pr_out_camera_11__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C10275: pr_out_camera_11__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C10276: pr_out_camera_11__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C10277: pr_out_camera_11__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C10278: pr_out_camera_11__obj_4__obj_5_copy_device_1__device_1_ = 0
+_C10279: pr_out_camera_11__obj_4__obj_5_copy_device_1__device_2_ = 0
+_C1028: sn_edge_2__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C10280: pr_out_camera_11__obj_4__obj_5_copy_device_1__device_3_ = 0
+_C10281: pr_out_camera_11__obj_4__obj_5_copy_device_2__device_0_ = 0
+_C10282: pr_out_camera_11__obj_4__obj_5_copy_device_2__device_1_ = 0
+_C10283: pr_out_camera_11__obj_4__obj_5_copy_device_2__device_2_ = 0
+_C10284: pr_out_camera_11__obj_4__obj_5_copy_device_2__device_3_ = 0
+_C10285: pr_out_camera_11__obj_4__obj_5_copy_device_3__device_0_ = 0
+_C10286: pr_out_camera_11__obj_4__obj_5_copy_device_3__device_1_ = 0
+_C10287: pr_out_camera_11__obj_4__obj_5_copy_device_3__device_2_ = 0
+_C10288: pr_out_camera_11__obj_4__obj_5_copy_device_3__device_3_ = 0
+_C10289: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ = 0
+_C1029: pr_in_edge_2__obj_4__obj_5_copy_device_1__device_0_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_1__device_0_
+ - sn_edge_2__obj_4__obj_5_copy_device_1__device_0_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_1__device_0_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_1__device_0_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_1__device_0_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C10290: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ = 0
+_C10291: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ = 0
+_C10292: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ = 0
+_C10293: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ = 0
+_C10294: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ = 0
+_C10295: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ = 0
+_C10296: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ = 0
+_C10297: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ = 0
+_C10298: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ = 0
+_C10299: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ = 0
+_C103: - pr_in_center__obj_1__obj_5_copy_device_0__device_1_
+ + pr_out_center__obj_4__obj_5_copy_device_0__device_1_ <= 0
+_C1030: - pr_in_edge_2__obj_1__obj_5_copy_device_1__device_0_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_1__device_0_ <= 0
+_C10300: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ = 0
+_C10301: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ = 0
+_C10302: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ = 0
+_C10303: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ = 0
+_C10304: pr_out_camera_11__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ = 0
+_C10305: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ = 0
+_C10306: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ = 0
+_C10307: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ = 0
+_C10308: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ = 0
+_C10309: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ = 0
+_C1031: - pr_in_edge_2__obj_2__obj_5_copy_device_1__device_0_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_1__device_0_ <= 0
+_C10310: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ = 0
+_C10311: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ = 0
+_C10312: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ = 0
+_C10313: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ = 0
+_C10314: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ = 0
+_C10315: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ = 0
+_C10316: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ = 0
+_C10317: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ = 0
+_C10318: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ = 0
+_C10319: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ = 0
+_C1032: - pr_in_edge_2__obj_3__obj_5_copy_device_1__device_0_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_1__device_0_ <= 0
+_C10320: pr_out_camera_11__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ = 0
+_C10321: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ = 0
+_C10322: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ = 0
+_C10323: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ = 0
+_C10324: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ = 0
+_C10325: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ = 0
+_C10326: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ = 0
+_C10327: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ = 0
+_C10328: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ = 0
+_C10329: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ = 0
+_C1033: sn_edge_2__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C10330: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ = 0
+_C10331: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ = 0
+_C10332: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ = 0
+_C10333: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ = 0
+_C10334: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ = 0
+_C10335: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ = 0
+_C10336: pr_out_camera_11__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ = 0
+_C10337: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ = 0
+_C10338: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ = 0
+_C10339: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ = 0
+_C1034: pr_in_edge_2__obj_4__obj_5_copy_device_1__device_1_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_1__device_1_
+ - sn_edge_2__obj_4__obj_5_copy_device_1__device_1_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_1__device_1_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_1__device_1_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_1__device_1_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_1__device_1_ = 0
+_C10340: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ = 0
+_C10341: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ = 0
+_C10342: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ = 0
+_C10343: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ = 0
+_C10344: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ = 0
+_C10345: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ = 0
+_C10346: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ = 0
+_C10347: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ = 0
+_C10348: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ = 0
+_C10349: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ = 0
+_C1035: - pr_in_edge_2__obj_1__obj_5_copy_device_1__device_1_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_1__device_1_ <= 0
+_C10350: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ = 0
+_C10351: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ = 0
+_C10352: pr_out_camera_11__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ = 0
+_C10353: pr_out_camera_12__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C10354: pr_out_camera_12__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C10355: pr_out_camera_12__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C10356: pr_out_camera_12__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C10357: pr_out_camera_12__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C10358: pr_out_camera_12__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C10359: pr_out_camera_12__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C1036: - pr_in_edge_2__obj_2__obj_5_copy_device_1__device_1_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_1__device_1_ <= 0
+_C10360: pr_out_camera_12__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C10361: pr_out_camera_12__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C10362: pr_out_camera_12__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C10363: pr_out_camera_12__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C10364: pr_out_camera_12__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C10365: pr_out_camera_12__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C10366: pr_out_camera_12__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C10367: pr_out_camera_12__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C10368: pr_out_camera_12__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C10369: pr_out_camera_12__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C1037: - pr_in_edge_2__obj_3__obj_5_copy_device_1__device_1_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_1__device_1_ <= 0
+_C10370: pr_out_camera_12__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C10371: pr_out_camera_12__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C10372: pr_out_camera_12__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C10373: pr_out_camera_12__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C10374: pr_out_camera_12__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C10375: pr_out_camera_12__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C10376: pr_out_camera_12__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C10377: pr_out_camera_12__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C10378: pr_out_camera_12__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C10379: pr_out_camera_12__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C1038: sn_edge_2__obj_4__obj_5_copy_device_1__device_1_ = 0
+_C10380: pr_out_camera_12__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C10381: pr_out_camera_12__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C10382: pr_out_camera_12__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C10383: pr_out_camera_12__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C10384: pr_out_camera_12__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C10385: pr_out_camera_12__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C10386: pr_out_camera_12__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C10387: pr_out_camera_12__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C10388: pr_out_camera_12__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C10389: pr_out_camera_12__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C1039: pr_in_edge_2__obj_4__obj_5_copy_device_1__device_2_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_1__device_2_
+ - sn_edge_2__obj_4__obj_5_copy_device_1__device_2_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_1__device_2_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_1__device_2_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_1__device_2_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_1__device_2_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_1__device_2_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_1__device_2_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_1__device_2_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_1__device_2_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_1__device_2_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_1__device_2_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_1__device_2_ = 0
+_C10390: pr_out_camera_12__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C10391: pr_out_camera_12__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C10392: pr_out_camera_12__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C10393: pr_out_camera_12__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C10394: pr_out_camera_12__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C10395: pr_out_camera_12__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C10396: pr_out_camera_12__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C10397: pr_out_camera_12__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C10398: pr_out_camera_12__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C10399: pr_out_camera_12__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C104: - pr_in_center__obj_2__obj_5_copy_device_0__device_1_
+ + pr_out_center__obj_4__obj_5_copy_device_0__device_1_ <= 0
+_C1040: - pr_in_edge_2__obj_1__obj_5_copy_device_1__device_2_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_1__device_2_ <= 0
+_C10400: pr_out_camera_12__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C10401: pr_out_camera_12__obj_4__obj_5_copy_device_0__device_0_ = 0
+_C10402: pr_out_camera_12__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C10403: pr_out_camera_12__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C10404: pr_out_camera_12__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C10405: pr_out_camera_12__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C10406: pr_out_camera_12__obj_4__obj_5_copy_device_1__device_1_ = 0
+_C10407: pr_out_camera_12__obj_4__obj_5_copy_device_1__device_2_ = 0
+_C10408: pr_out_camera_12__obj_4__obj_5_copy_device_1__device_3_ = 0
+_C10409: pr_out_camera_12__obj_4__obj_5_copy_device_2__device_0_ = 0
+_C1041: - pr_in_edge_2__obj_2__obj_5_copy_device_1__device_2_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_1__device_2_ <= 0
+_C10410: pr_out_camera_12__obj_4__obj_5_copy_device_2__device_1_ = 0
+_C10411: pr_out_camera_12__obj_4__obj_5_copy_device_2__device_2_ = 0
+_C10412: pr_out_camera_12__obj_4__obj_5_copy_device_2__device_3_ = 0
+_C10413: pr_out_camera_12__obj_4__obj_5_copy_device_3__device_0_ = 0
+_C10414: pr_out_camera_12__obj_4__obj_5_copy_device_3__device_1_ = 0
+_C10415: pr_out_camera_12__obj_4__obj_5_copy_device_3__device_2_ = 0
+_C10416: pr_out_camera_12__obj_4__obj_5_copy_device_3__device_3_ = 0
+_C10417: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ = 0
+_C10418: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ = 0
+_C10419: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ = 0
+_C1042: - pr_in_edge_2__obj_3__obj_5_copy_device_1__device_2_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_1__device_2_ <= 0
+_C10420: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ = 0
+_C10421: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ = 0
+_C10422: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ = 0
+_C10423: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ = 0
+_C10424: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ = 0
+_C10425: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ = 0
+_C10426: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ = 0
+_C10427: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ = 0
+_C10428: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ = 0
+_C10429: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ = 0
+_C1043: sn_edge_2__obj_4__obj_5_copy_device_1__device_2_ = 0
+_C10430: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ = 0
+_C10431: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ = 0
+_C10432: pr_out_camera_12__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ = 0
+_C10433: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ = 0
+_C10434: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ = 0
+_C10435: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ = 0
+_C10436: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ = 0
+_C10437: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ = 0
+_C10438: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ = 0
+_C10439: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ = 0
+_C1044: pr_in_edge_2__obj_4__obj_5_copy_device_1__device_3_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_1__device_3_
+ - sn_edge_2__obj_4__obj_5_copy_device_1__device_3_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_1__device_3_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_1__device_3_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_1__device_3_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_1__device_3_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_1__device_3_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_1__device_3_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_1__device_3_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_1__device_3_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_1__device_3_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_1__device_3_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_1__device_3_ = 0
+_C10440: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ = 0
+_C10441: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ = 0
+_C10442: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ = 0
+_C10443: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ = 0
+_C10444: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ = 0
+_C10445: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ = 0
+_C10446: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ = 0
+_C10447: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ = 0
+_C10448: pr_out_camera_12__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ = 0
+_C10449: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ = 0
+_C1045: - pr_in_edge_2__obj_1__obj_5_copy_device_1__device_3_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_1__device_3_ <= 0
+_C10450: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ = 0
+_C10451: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ = 0
+_C10452: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ = 0
+_C10453: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ = 0
+_C10454: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ = 0
+_C10455: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ = 0
+_C10456: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ = 0
+_C10457: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ = 0
+_C10458: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ = 0
+_C10459: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ = 0
+_C1046: - pr_in_edge_2__obj_2__obj_5_copy_device_1__device_3_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_1__device_3_ <= 0
+_C10460: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ = 0
+_C10461: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ = 0
+_C10462: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ = 0
+_C10463: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ = 0
+_C10464: pr_out_camera_12__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ = 0
+_C10465: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ = 0
+_C10466: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ = 0
+_C10467: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ = 0
+_C10468: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ = 0
+_C10469: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ = 0
+_C1047: - pr_in_edge_2__obj_3__obj_5_copy_device_1__device_3_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_1__device_3_ <= 0
+_C10470: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ = 0
+_C10471: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ = 0
+_C10472: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ = 0
+_C10473: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ = 0
+_C10474: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ = 0
+_C10475: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ = 0
+_C10476: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ = 0
+_C10477: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ = 0
+_C10478: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ = 0
+_C10479: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ = 0
+_C1048: sn_edge_2__obj_4__obj_5_copy_device_1__device_3_ = 0
+_C10480: pr_out_camera_12__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ = 0
+_C10481: pr_out_camera_13__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C10482: pr_out_camera_13__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C10483: pr_out_camera_13__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C10484: pr_out_camera_13__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C10485: pr_out_camera_13__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C10486: pr_out_camera_13__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C10487: pr_out_camera_13__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C10488: pr_out_camera_13__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C10489: pr_out_camera_13__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C1049: pr_in_edge_2__obj_4__obj_5_copy_device_2__device_0_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_2__device_0_
+ - sn_edge_2__obj_4__obj_5_copy_device_2__device_0_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_2__device_0_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_2__device_0_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_2__device_0_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_2__device_0_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_2__device_0_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_2__device_0_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_2__device_0_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_2__device_0_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_2__device_0_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_2__device_0_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_2__device_0_ = 0
+_C10490: pr_out_camera_13__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C10491: pr_out_camera_13__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C10492: pr_out_camera_13__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C10493: pr_out_camera_13__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C10494: pr_out_camera_13__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C10495: pr_out_camera_13__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C10496: pr_out_camera_13__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C10497: pr_out_camera_13__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C10498: pr_out_camera_13__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C10499: pr_out_camera_13__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C105: - pr_in_center__obj_3__obj_5_copy_device_0__device_1_
+ + pr_out_center__obj_4__obj_5_copy_device_0__device_1_ <= 0
+_C1050: - pr_in_edge_2__obj_1__obj_5_copy_device_2__device_0_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_2__device_0_ <= 0
+_C10500: pr_out_camera_13__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C10501: pr_out_camera_13__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C10502: pr_out_camera_13__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C10503: pr_out_camera_13__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C10504: pr_out_camera_13__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C10505: pr_out_camera_13__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C10506: pr_out_camera_13__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C10507: pr_out_camera_13__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C10508: pr_out_camera_13__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C10509: pr_out_camera_13__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C1051: - pr_in_edge_2__obj_2__obj_5_copy_device_2__device_0_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_2__device_0_ <= 0
+_C10510: pr_out_camera_13__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C10511: pr_out_camera_13__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C10512: pr_out_camera_13__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C10513: pr_out_camera_13__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C10514: pr_out_camera_13__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C10515: pr_out_camera_13__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C10516: pr_out_camera_13__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C10517: pr_out_camera_13__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C10518: pr_out_camera_13__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C10519: pr_out_camera_13__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C1052: - pr_in_edge_2__obj_3__obj_5_copy_device_2__device_0_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_2__device_0_ <= 0
+_C10520: pr_out_camera_13__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C10521: pr_out_camera_13__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C10522: pr_out_camera_13__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C10523: pr_out_camera_13__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C10524: pr_out_camera_13__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C10525: pr_out_camera_13__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C10526: pr_out_camera_13__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C10527: pr_out_camera_13__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C10528: pr_out_camera_13__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C10529: pr_out_camera_13__obj_4__obj_5_copy_device_0__device_0_ = 0
+_C1053: sn_edge_2__obj_4__obj_5_copy_device_2__device_0_ = 0
+_C10530: pr_out_camera_13__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C10531: pr_out_camera_13__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C10532: pr_out_camera_13__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C10533: pr_out_camera_13__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C10534: pr_out_camera_13__obj_4__obj_5_copy_device_1__device_1_ = 0
+_C10535: pr_out_camera_13__obj_4__obj_5_copy_device_1__device_2_ = 0
+_C10536: pr_out_camera_13__obj_4__obj_5_copy_device_1__device_3_ = 0
+_C10537: pr_out_camera_13__obj_4__obj_5_copy_device_2__device_0_ = 0
+_C10538: pr_out_camera_13__obj_4__obj_5_copy_device_2__device_1_ = 0
+_C10539: pr_out_camera_13__obj_4__obj_5_copy_device_2__device_2_ = 0
+_C1054: pr_in_edge_2__obj_4__obj_5_copy_device_2__device_1_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_2__device_1_
+ - sn_edge_2__obj_4__obj_5_copy_device_2__device_1_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_2__device_1_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_2__device_1_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_2__device_1_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_2__device_1_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_2__device_1_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_2__device_1_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_2__device_1_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_2__device_1_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_2__device_1_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_2__device_1_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_2__device_1_ = 0
+_C10540: pr_out_camera_13__obj_4__obj_5_copy_device_2__device_3_ = 0
+_C10541: pr_out_camera_13__obj_4__obj_5_copy_device_3__device_0_ = 0
+_C10542: pr_out_camera_13__obj_4__obj_5_copy_device_3__device_1_ = 0
+_C10543: pr_out_camera_13__obj_4__obj_5_copy_device_3__device_2_ = 0
+_C10544: pr_out_camera_13__obj_4__obj_5_copy_device_3__device_3_ = 0
+_C10545: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ = 0
+_C10546: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ = 0
+_C10547: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ = 0
+_C10548: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ = 0
+_C10549: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ = 0
+_C1055: - pr_in_edge_2__obj_1__obj_5_copy_device_2__device_1_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_2__device_1_ <= 0
+_C10550: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ = 0
+_C10551: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ = 0
+_C10552: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ = 0
+_C10553: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ = 0
+_C10554: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ = 0
+_C10555: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ = 0
+_C10556: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ = 0
+_C10557: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ = 0
+_C10558: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ = 0
+_C10559: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ = 0
+_C1056: - pr_in_edge_2__obj_2__obj_5_copy_device_2__device_1_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_2__device_1_ <= 0
+_C10560: pr_out_camera_13__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ = 0
+_C10561: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ = 0
+_C10562: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ = 0
+_C10563: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ = 0
+_C10564: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ = 0
+_C10565: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ = 0
+_C10566: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ = 0
+_C10567: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ = 0
+_C10568: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ = 0
+_C10569: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ = 0
+_C1057: - pr_in_edge_2__obj_3__obj_5_copy_device_2__device_1_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_2__device_1_ <= 0
+_C10570: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ = 0
+_C10571: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ = 0
+_C10572: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ = 0
+_C10573: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ = 0
+_C10574: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ = 0
+_C10575: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ = 0
+_C10576: pr_out_camera_13__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ = 0
+_C10577: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ = 0
+_C10578: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ = 0
+_C10579: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ = 0
+_C1058: sn_edge_2__obj_4__obj_5_copy_device_2__device_1_ = 0
+_C10580: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ = 0
+_C10581: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ = 0
+_C10582: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ = 0
+_C10583: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ = 0
+_C10584: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ = 0
+_C10585: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ = 0
+_C10586: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ = 0
+_C10587: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ = 0
+_C10588: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ = 0
+_C10589: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ = 0
+_C1059: pr_in_edge_2__obj_4__obj_5_copy_device_2__device_2_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_2__device_2_
+ - sn_edge_2__obj_4__obj_5_copy_device_2__device_2_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_2__device_2_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_2__device_2_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_2__device_2_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_2__device_2_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_2__device_2_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_2__device_2_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_2__device_2_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_2__device_2_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_2__device_2_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_2__device_2_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_2__device_2_ = 0
+_C10590: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ = 0
+_C10591: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ = 0
+_C10592: pr_out_camera_13__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ = 0
+_C10593: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ = 0
+_C10594: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ = 0
+_C10595: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ = 0
+_C10596: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ = 0
+_C10597: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ = 0
+_C10598: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ = 0
+_C10599: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ = 0
+_C106: sn_center__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C1060: - pr_in_edge_2__obj_1__obj_5_copy_device_2__device_2_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_2__device_2_ <= 0
+_C10600: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ = 0
+_C10601: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ = 0
+_C10602: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ = 0
+_C10603: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ = 0
+_C10604: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ = 0
+_C10605: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ = 0
+_C10606: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ = 0
+_C10607: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ = 0
+_C10608: pr_out_camera_13__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ = 0
+_C10609: pr_out_camera_14__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C1061: - pr_in_edge_2__obj_2__obj_5_copy_device_2__device_2_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_2__device_2_ <= 0
+_C10610: pr_out_camera_14__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C10611: pr_out_camera_14__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C10612: pr_out_camera_14__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C10613: pr_out_camera_14__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C10614: pr_out_camera_14__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C10615: pr_out_camera_14__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C10616: pr_out_camera_14__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C10617: pr_out_camera_14__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C10618: pr_out_camera_14__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C10619: pr_out_camera_14__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C1062: - pr_in_edge_2__obj_3__obj_5_copy_device_2__device_2_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_2__device_2_ <= 0
+_C10620: pr_out_camera_14__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C10621: pr_out_camera_14__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C10622: pr_out_camera_14__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C10623: pr_out_camera_14__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C10624: pr_out_camera_14__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C10625: pr_out_camera_14__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C10626: pr_out_camera_14__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C10627: pr_out_camera_14__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C10628: pr_out_camera_14__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C10629: pr_out_camera_14__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C1063: sn_edge_2__obj_4__obj_5_copy_device_2__device_2_ = 0
+_C10630: pr_out_camera_14__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C10631: pr_out_camera_14__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C10632: pr_out_camera_14__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C10633: pr_out_camera_14__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C10634: pr_out_camera_14__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C10635: pr_out_camera_14__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C10636: pr_out_camera_14__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C10637: pr_out_camera_14__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C10638: pr_out_camera_14__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C10639: pr_out_camera_14__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C1064: pr_in_edge_2__obj_4__obj_5_copy_device_2__device_3_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_2__device_3_
+ - sn_edge_2__obj_4__obj_5_copy_device_2__device_3_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_2__device_3_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_2__device_3_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_2__device_3_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_2__device_3_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_2__device_3_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_2__device_3_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_2__device_3_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_2__device_3_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_2__device_3_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_2__device_3_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_2__device_3_ = 0
+_C10640: pr_out_camera_14__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C10641: pr_out_camera_14__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C10642: pr_out_camera_14__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C10643: pr_out_camera_14__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C10644: pr_out_camera_14__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C10645: pr_out_camera_14__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C10646: pr_out_camera_14__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C10647: pr_out_camera_14__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C10648: pr_out_camera_14__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C10649: pr_out_camera_14__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C1065: - pr_in_edge_2__obj_1__obj_5_copy_device_2__device_3_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_2__device_3_ <= 0
+_C10650: pr_out_camera_14__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C10651: pr_out_camera_14__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C10652: pr_out_camera_14__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C10653: pr_out_camera_14__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C10654: pr_out_camera_14__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C10655: pr_out_camera_14__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C10656: pr_out_camera_14__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C10657: pr_out_camera_14__obj_4__obj_5_copy_device_0__device_0_ = 0
+_C10658: pr_out_camera_14__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C10659: pr_out_camera_14__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C1066: - pr_in_edge_2__obj_2__obj_5_copy_device_2__device_3_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_2__device_3_ <= 0
+_C10660: pr_out_camera_14__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C10661: pr_out_camera_14__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C10662: pr_out_camera_14__obj_4__obj_5_copy_device_1__device_1_ = 0
+_C10663: pr_out_camera_14__obj_4__obj_5_copy_device_1__device_2_ = 0
+_C10664: pr_out_camera_14__obj_4__obj_5_copy_device_1__device_3_ = 0
+_C10665: pr_out_camera_14__obj_4__obj_5_copy_device_2__device_0_ = 0
+_C10666: pr_out_camera_14__obj_4__obj_5_copy_device_2__device_1_ = 0
+_C10667: pr_out_camera_14__obj_4__obj_5_copy_device_2__device_2_ = 0
+_C10668: pr_out_camera_14__obj_4__obj_5_copy_device_2__device_3_ = 0
+_C10669: pr_out_camera_14__obj_4__obj_5_copy_device_3__device_0_ = 0
+_C1067: - pr_in_edge_2__obj_3__obj_5_copy_device_2__device_3_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_2__device_3_ <= 0
+_C10670: pr_out_camera_14__obj_4__obj_5_copy_device_3__device_1_ = 0
+_C10671: pr_out_camera_14__obj_4__obj_5_copy_device_3__device_2_ = 0
+_C10672: pr_out_camera_14__obj_4__obj_5_copy_device_3__device_3_ = 0
+_C10673: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ = 0
+_C10674: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ = 0
+_C10675: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ = 0
+_C10676: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ = 0
+_C10677: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ = 0
+_C10678: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ = 0
+_C10679: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ = 0
+_C1068: sn_edge_2__obj_4__obj_5_copy_device_2__device_3_ = 0
+_C10680: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ = 0
+_C10681: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ = 0
+_C10682: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ = 0
+_C10683: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ = 0
+_C10684: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ = 0
+_C10685: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ = 0
+_C10686: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ = 0
+_C10687: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ = 0
+_C10688: pr_out_camera_14__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ = 0
+_C10689: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ = 0
+_C1069: pr_in_edge_2__obj_4__obj_5_copy_device_3__device_0_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_3__device_0_
+ - sn_edge_2__obj_4__obj_5_copy_device_3__device_0_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_3__device_0_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_3__device_0_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_3__device_0_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_3__device_0_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_3__device_0_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_3__device_0_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_3__device_0_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_3__device_0_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_3__device_0_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_3__device_0_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_3__device_0_ = 0
+_C10690: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ = 0
+_C10691: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ = 0
+_C10692: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ = 0
+_C10693: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ = 0
+_C10694: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ = 0
+_C10695: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ = 0
+_C10696: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ = 0
+_C10697: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ = 0
+_C10698: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ = 0
+_C10699: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ = 0
+_C107: pr_in_center__obj_4__obj_5_copy_device_0__device_2_
+ - pr_out_center__obj_4__obj_5_copy_device_0__device_2_
+ - sn_center__obj_4__obj_5_copy_device_0__device_2_
+ + tr_center___edge_0__obj_4__obj_5_copy_device_0__device_2_
+ + tr_center___edge_1__obj_4__obj_5_copy_device_0__device_2_
+ + tr_center___edge_2__obj_4__obj_5_copy_device_0__device_2_
+ + tr_center___edge_3__obj_4__obj_5_copy_device_0__device_2_
+ - tr_edge_0___center__obj_4__obj_5_copy_device_0__device_2_
+ - tr_edge_1___center__obj_4__obj_5_copy_device_0__device_2_
+ - tr_edge_2___center__obj_4__obj_5_copy_device_0__device_2_
+ - tr_edge_3___center__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C1070: - pr_in_edge_2__obj_1__obj_5_copy_device_3__device_0_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_3__device_0_ <= 0
+_C10700: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ = 0
+_C10701: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ = 0
+_C10702: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ = 0
+_C10703: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ = 0
+_C10704: pr_out_camera_14__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ = 0
+_C10705: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ = 0
+_C10706: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ = 0
+_C10707: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ = 0
+_C10708: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ = 0
+_C10709: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ = 0
+_C1071: - pr_in_edge_2__obj_2__obj_5_copy_device_3__device_0_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_3__device_0_ <= 0
+_C10710: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ = 0
+_C10711: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ = 0
+_C10712: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ = 0
+_C10713: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ = 0
+_C10714: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ = 0
+_C10715: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ = 0
+_C10716: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ = 0
+_C10717: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ = 0
+_C10718: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ = 0
+_C10719: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ = 0
+_C1072: - pr_in_edge_2__obj_3__obj_5_copy_device_3__device_0_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_3__device_0_ <= 0
+_C10720: pr_out_camera_14__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ = 0
+_C10721: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ = 0
+_C10722: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ = 0
+_C10723: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ = 0
+_C10724: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ = 0
+_C10725: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ = 0
+_C10726: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ = 0
+_C10727: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ = 0
+_C10728: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ = 0
+_C10729: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ = 0
+_C1073: sn_edge_2__obj_4__obj_5_copy_device_3__device_0_ = 0
+_C10730: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ = 0
+_C10731: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ = 0
+_C10732: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ = 0
+_C10733: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ = 0
+_C10734: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ = 0
+_C10735: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ = 0
+_C10736: pr_out_camera_14__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ = 0
+_C10737: pr_out_camera_15__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C10738: pr_out_camera_15__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C10739: pr_out_camera_15__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C1074: pr_in_edge_2__obj_4__obj_5_copy_device_3__device_1_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_3__device_1_
+ - sn_edge_2__obj_4__obj_5_copy_device_3__device_1_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_3__device_1_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_3__device_1_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_3__device_1_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_3__device_1_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_3__device_1_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_3__device_1_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_3__device_1_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_3__device_1_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_3__device_1_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_3__device_1_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_3__device_1_ = 0
+_C10740: pr_out_camera_15__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C10741: pr_out_camera_15__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C10742: pr_out_camera_15__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C10743: pr_out_camera_15__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C10744: pr_out_camera_15__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C10745: pr_out_camera_15__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C10746: pr_out_camera_15__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C10747: pr_out_camera_15__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C10748: pr_out_camera_15__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C10749: pr_out_camera_15__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C1075: - pr_in_edge_2__obj_1__obj_5_copy_device_3__device_1_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_3__device_1_ <= 0
+_C10750: pr_out_camera_15__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C10751: pr_out_camera_15__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C10752: pr_out_camera_15__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C10753: pr_out_camera_15__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C10754: pr_out_camera_15__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C10755: pr_out_camera_15__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C10756: pr_out_camera_15__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C10757: pr_out_camera_15__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C10758: pr_out_camera_15__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C10759: pr_out_camera_15__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C1076: - pr_in_edge_2__obj_2__obj_5_copy_device_3__device_1_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_3__device_1_ <= 0
+_C10760: pr_out_camera_15__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C10761: pr_out_camera_15__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C10762: pr_out_camera_15__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C10763: pr_out_camera_15__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C10764: pr_out_camera_15__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C10765: pr_out_camera_15__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C10766: pr_out_camera_15__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C10767: pr_out_camera_15__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C10768: pr_out_camera_15__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C10769: pr_out_camera_15__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C1077: - pr_in_edge_2__obj_3__obj_5_copy_device_3__device_1_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_3__device_1_ <= 0
+_C10770: pr_out_camera_15__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C10771: pr_out_camera_15__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C10772: pr_out_camera_15__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C10773: pr_out_camera_15__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C10774: pr_out_camera_15__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C10775: pr_out_camera_15__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C10776: pr_out_camera_15__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C10777: pr_out_camera_15__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C10778: pr_out_camera_15__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C10779: pr_out_camera_15__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C1078: sn_edge_2__obj_4__obj_5_copy_device_3__device_1_ = 0
+_C10780: pr_out_camera_15__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C10781: pr_out_camera_15__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C10782: pr_out_camera_15__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C10783: pr_out_camera_15__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C10784: pr_out_camera_15__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C10785: pr_out_camera_15__obj_4__obj_5_copy_device_0__device_0_ = 0
+_C10786: pr_out_camera_15__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C10787: pr_out_camera_15__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C10788: pr_out_camera_15__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C10789: pr_out_camera_15__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C1079: pr_in_edge_2__obj_4__obj_5_copy_device_3__device_2_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_3__device_2_
+ - sn_edge_2__obj_4__obj_5_copy_device_3__device_2_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_3__device_2_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_3__device_2_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_3__device_2_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_3__device_2_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_3__device_2_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_3__device_2_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_3__device_2_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_3__device_2_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_3__device_2_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_3__device_2_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_3__device_2_ = 0
+_C10790: pr_out_camera_15__obj_4__obj_5_copy_device_1__device_1_ = 0
+_C10791: pr_out_camera_15__obj_4__obj_5_copy_device_1__device_2_ = 0
+_C10792: pr_out_camera_15__obj_4__obj_5_copy_device_1__device_3_ = 0
+_C10793: pr_out_camera_15__obj_4__obj_5_copy_device_2__device_0_ = 0
+_C10794: pr_out_camera_15__obj_4__obj_5_copy_device_2__device_1_ = 0
+_C10795: pr_out_camera_15__obj_4__obj_5_copy_device_2__device_2_ = 0
+_C10796: pr_out_camera_15__obj_4__obj_5_copy_device_2__device_3_ = 0
+_C10797: pr_out_camera_15__obj_4__obj_5_copy_device_3__device_0_ = 0
+_C10798: pr_out_camera_15__obj_4__obj_5_copy_device_3__device_1_ = 0
+_C10799: pr_out_camera_15__obj_4__obj_5_copy_device_3__device_2_ = 0
+_C108: - pr_in_center__obj_1__obj_5_copy_device_0__device_2_
+ + pr_out_center__obj_4__obj_5_copy_device_0__device_2_ <= 0
+_C1080: - pr_in_edge_2__obj_1__obj_5_copy_device_3__device_2_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_3__device_2_ <= 0
+_C10800: pr_out_camera_15__obj_4__obj_5_copy_device_3__device_3_ = 0
+_C10801: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ = 0
+_C10802: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ = 0
+_C10803: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ = 0
+_C10804: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ = 0
+_C10805: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ = 0
+_C10806: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ = 0
+_C10807: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ = 0
+_C10808: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ = 0
+_C10809: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ = 0
+_C1081: - pr_in_edge_2__obj_2__obj_5_copy_device_3__device_2_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_3__device_2_ <= 0
+_C10810: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ = 0
+_C10811: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ = 0
+_C10812: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ = 0
+_C10813: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ = 0
+_C10814: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ = 0
+_C10815: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ = 0
+_C10816: pr_out_camera_15__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ = 0
+_C10817: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ = 0
+_C10818: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ = 0
+_C10819: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ = 0
+_C1082: - pr_in_edge_2__obj_3__obj_5_copy_device_3__device_2_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_3__device_2_ <= 0
+_C10820: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ = 0
+_C10821: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ = 0
+_C10822: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ = 0
+_C10823: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ = 0
+_C10824: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ = 0
+_C10825: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ = 0
+_C10826: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ = 0
+_C10827: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ = 0
+_C10828: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ = 0
+_C10829: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ = 0
+_C1083: sn_edge_2__obj_4__obj_5_copy_device_3__device_2_ = 0
+_C10830: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ = 0
+_C10831: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ = 0
+_C10832: pr_out_camera_15__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ = 0
+_C10833: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ = 0
+_C10834: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ = 0
+_C10835: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ = 0
+_C10836: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ = 0
+_C10837: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ = 0
+_C10838: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ = 0
+_C10839: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ = 0
+_C1084: pr_in_edge_2__obj_4__obj_5_copy_device_3__device_3_
+ - pr_out_edge_2__obj_4__obj_5_copy_device_3__device_3_
+ - sn_edge_2__obj_4__obj_5_copy_device_3__device_3_
+ - tr_camera_10___edge_2__obj_4__obj_5_copy_device_3__device_3_
+ - tr_camera_11___edge_2__obj_4__obj_5_copy_device_3__device_3_
+ - tr_camera_12___edge_2__obj_4__obj_5_copy_device_3__device_3_
+ - tr_camera_13___edge_2__obj_4__obj_5_copy_device_3__device_3_
+ - tr_camera_14___edge_2__obj_4__obj_5_copy_device_3__device_3_
+ - tr_center___edge_2__obj_4__obj_5_copy_device_3__device_3_
+ - tr_device_2___edge_2__obj_4__obj_5_copy_device_3__device_3_
+ - tr_edge_0___edge_2__obj_4__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_10__obj_4__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_11__obj_4__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_12__obj_4__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_13__obj_4__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_14__obj_4__obj_5_copy_device_3__device_3_
+ + tr_edge_2___center__obj_4__obj_5_copy_device_3__device_3_
+ + tr_edge_2___device_2__obj_4__obj_5_copy_device_3__device_3_
+ + tr_edge_2___edge_0__obj_4__obj_5_copy_device_3__device_3_ = 0
+_C10840: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ = 0
+_C10841: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ = 0
+_C10842: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ = 0
+_C10843: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ = 0
+_C10844: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ = 0
+_C10845: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ = 0
+_C10846: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ = 0
+_C10847: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ = 0
+_C10848: pr_out_camera_15__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ = 0
+_C10849: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ = 0
+_C1085: - pr_in_edge_2__obj_1__obj_5_copy_device_3__device_3_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_3__device_3_ <= 0
+_C10850: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ = 0
+_C10851: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ = 0
+_C10852: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ = 0
+_C10853: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ = 0
+_C10854: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ = 0
+_C10855: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ = 0
+_C10856: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ = 0
+_C10857: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ = 0
+_C10858: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ = 0
+_C10859: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ = 0
+_C1086: - pr_in_edge_2__obj_2__obj_5_copy_device_3__device_3_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_3__device_3_ <= 0
+_C10860: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ = 0
+_C10861: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ = 0
+_C10862: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ = 0
+_C10863: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ = 0
+_C10864: pr_out_camera_15__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ = 0
+_C10865: pr_out_camera_16__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C10866: pr_out_camera_16__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C10867: pr_out_camera_16__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C10868: pr_out_camera_16__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C10869: pr_out_camera_16__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C1087: - pr_in_edge_2__obj_3__obj_5_copy_device_3__device_3_
+ + pr_out_edge_2__obj_4__obj_5_copy_device_3__device_3_ <= 0
+_C10870: pr_out_camera_16__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C10871: pr_out_camera_16__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C10872: pr_out_camera_16__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C10873: pr_out_camera_16__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C10874: pr_out_camera_16__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C10875: pr_out_camera_16__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C10876: pr_out_camera_16__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C10877: pr_out_camera_16__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C10878: pr_out_camera_16__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C10879: pr_out_camera_16__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C1088: sn_edge_2__obj_4__obj_5_copy_device_3__device_3_ = 0
+_C10880: pr_out_camera_16__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C10881: pr_out_camera_16__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C10882: pr_out_camera_16__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C10883: pr_out_camera_16__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C10884: pr_out_camera_16__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C10885: pr_out_camera_16__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C10886: pr_out_camera_16__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C10887: pr_out_camera_16__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C10888: pr_out_camera_16__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C10889: pr_out_camera_16__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C1089: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_0_ = 0
+_C10890: pr_out_camera_16__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C10891: pr_out_camera_16__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C10892: pr_out_camera_16__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C10893: pr_out_camera_16__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C10894: pr_out_camera_16__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C10895: pr_out_camera_16__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C10896: pr_out_camera_16__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C10897: pr_out_camera_16__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C10898: pr_out_camera_16__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C10899: pr_out_camera_16__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C109: - pr_in_center__obj_2__obj_5_copy_device_0__device_2_
+ + pr_out_center__obj_4__obj_5_copy_device_0__device_2_ <= 0
+_C1090: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_0_ = 0
+_C10900: pr_out_camera_16__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C10901: pr_out_camera_16__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C10902: pr_out_camera_16__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C10903: pr_out_camera_16__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C10904: pr_out_camera_16__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C10905: pr_out_camera_16__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C10906: pr_out_camera_16__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C10907: pr_out_camera_16__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C10908: pr_out_camera_16__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C10909: pr_out_camera_16__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C1091: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_1_ = 0
+_C10910: pr_out_camera_16__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C10911: pr_out_camera_16__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C10912: pr_out_camera_16__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C10913: pr_out_camera_16__obj_4__obj_5_copy_device_0__device_0_ = 0
+_C10914: pr_out_camera_16__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C10915: pr_out_camera_16__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C10916: pr_out_camera_16__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C10917: pr_out_camera_16__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C10918: pr_out_camera_16__obj_4__obj_5_copy_device_1__device_1_ = 0
+_C10919: pr_out_camera_16__obj_4__obj_5_copy_device_1__device_2_ = 0
+_C1092: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_1_ = 0
+_C10920: pr_out_camera_16__obj_4__obj_5_copy_device_1__device_3_ = 0
+_C10921: pr_out_camera_16__obj_4__obj_5_copy_device_2__device_0_ = 0
+_C10922: pr_out_camera_16__obj_4__obj_5_copy_device_2__device_1_ = 0
+_C10923: pr_out_camera_16__obj_4__obj_5_copy_device_2__device_2_ = 0
+_C10924: pr_out_camera_16__obj_4__obj_5_copy_device_2__device_3_ = 0
+_C10925: pr_out_camera_16__obj_4__obj_5_copy_device_3__device_0_ = 0
+_C10926: pr_out_camera_16__obj_4__obj_5_copy_device_3__device_1_ = 0
+_C10927: pr_out_camera_16__obj_4__obj_5_copy_device_3__device_2_ = 0
+_C10928: pr_out_camera_16__obj_4__obj_5_copy_device_3__device_3_ = 0
+_C10929: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ = 0
+_C1093: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_2_ = 0
+_C10930: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ = 0
+_C10931: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ = 0
+_C10932: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ = 0
+_C10933: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ = 0
+_C10934: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ = 0
+_C10935: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ = 0
+_C10936: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ = 0
+_C10937: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ = 0
+_C10938: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ = 0
+_C10939: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ = 0
+_C1094: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_2_ = 0
+_C10940: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ = 0
+_C10941: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ = 0
+_C10942: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ = 0
+_C10943: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ = 0
+_C10944: pr_out_camera_16__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ = 0
+_C10945: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ = 0
+_C10946: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ = 0
+_C10947: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ = 0
+_C10948: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ = 0
+_C10949: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ = 0
+_C1095: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_0__device_3_ = 0
+_C10950: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ = 0
+_C10951: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ = 0
+_C10952: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ = 0
+_C10953: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ = 0
+_C10954: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ = 0
+_C10955: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ = 0
+_C10956: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ = 0
+_C10957: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ = 0
+_C10958: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ = 0
+_C10959: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ = 0
+_C1096: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_0__device_3_ = 0
+_C10960: pr_out_camera_16__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ = 0
+_C10961: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ = 0
+_C10962: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ = 0
+_C10963: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ = 0
+_C10964: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ = 0
+_C10965: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ = 0
+_C10966: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ = 0
+_C10967: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ = 0
+_C10968: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ = 0
+_C10969: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ = 0
+_C1097: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_0_ = 0
+_C10970: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ = 0
+_C10971: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ = 0
+_C10972: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ = 0
+_C10973: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ = 0
+_C10974: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ = 0
+_C10975: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ = 0
+_C10976: pr_out_camera_16__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ = 0
+_C10977: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ = 0
+_C10978: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ = 0
+_C10979: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ = 0
+_C1098: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_0_ = 0
+_C10980: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ = 0
+_C10981: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ = 0
+_C10982: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ = 0
+_C10983: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ = 0
+_C10984: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ = 0
+_C10985: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ = 0
+_C10986: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ = 0
+_C10987: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ = 0
+_C10988: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ = 0
+_C10989: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ = 0
+_C1099: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_1_ = 0
+_C10990: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ = 0
+_C10991: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ = 0
+_C10992: pr_out_camera_16__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ = 0
+_C10993: pr_out_camera_17__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C10994: pr_out_camera_17__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C10995: pr_out_camera_17__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C10996: pr_out_camera_17__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C10997: pr_out_camera_17__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C10998: pr_out_camera_17__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C10999: pr_out_camera_17__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11: pr_in_center__obj_1__obj_5_copy_device_1__device_1_
+ - pr_out_center__obj_1__obj_5_copy_device_1__device_1_
+ - sn_center__obj_1__obj_5_copy_device_1__device_1_
+ + tr_center___edge_0__obj_1__obj_5_copy_device_1__device_1_
+ + tr_center___edge_1__obj_1__obj_5_copy_device_1__device_1_
+ + tr_center___edge_2__obj_1__obj_5_copy_device_1__device_1_
+ + tr_center___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ - tr_edge_0___center__obj_1__obj_5_copy_device_1__device_1_
+ - tr_edge_1___center__obj_1__obj_5_copy_device_1__device_1_
+ - tr_edge_2___center__obj_1__obj_5_copy_device_1__device_1_
+ - tr_edge_3___center__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C110: - pr_in_center__obj_3__obj_5_copy_device_0__device_2_
+ + pr_out_center__obj_4__obj_5_copy_device_0__device_2_ <= 0
+_C1100: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_1_ = 0
+_C11000: pr_out_camera_17__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11001: pr_out_camera_17__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11002: pr_out_camera_17__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11003: pr_out_camera_17__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11004: pr_out_camera_17__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11005: pr_out_camera_17__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11006: pr_out_camera_17__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11007: pr_out_camera_17__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11008: pr_out_camera_17__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11009: pr_out_camera_17__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C1101: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_2_ = 0
+_C11010: pr_out_camera_17__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C11011: pr_out_camera_17__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C11012: pr_out_camera_17__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C11013: pr_out_camera_17__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C11014: pr_out_camera_17__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C11015: pr_out_camera_17__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C11016: pr_out_camera_17__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C11017: pr_out_camera_17__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C11018: pr_out_camera_17__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C11019: pr_out_camera_17__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C1102: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_2_ = 0
+_C11020: pr_out_camera_17__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C11021: pr_out_camera_17__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C11022: pr_out_camera_17__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C11023: pr_out_camera_17__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C11024: pr_out_camera_17__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C11025: pr_out_camera_17__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C11026: pr_out_camera_17__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C11027: pr_out_camera_17__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C11028: pr_out_camera_17__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C11029: pr_out_camera_17__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C1103: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_1__device_3_ = 0
+_C11030: pr_out_camera_17__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C11031: pr_out_camera_17__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C11032: pr_out_camera_17__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C11033: pr_out_camera_17__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C11034: pr_out_camera_17__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C11035: pr_out_camera_17__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C11036: pr_out_camera_17__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C11037: pr_out_camera_17__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C11038: pr_out_camera_17__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C11039: pr_out_camera_17__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C1104: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_1__device_3_ = 0
+_C11040: pr_out_camera_17__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C11041: pr_out_camera_17__obj_4__obj_5_copy_device_0__device_0_ = 0
+_C11042: pr_out_camera_17__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C11043: pr_out_camera_17__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C11044: pr_out_camera_17__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C11045: pr_out_camera_17__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C11046: pr_out_camera_17__obj_4__obj_5_copy_device_1__device_1_ = 0
+_C11047: pr_out_camera_17__obj_4__obj_5_copy_device_1__device_2_ = 0
+_C11048: pr_out_camera_17__obj_4__obj_5_copy_device_1__device_3_ = 0
+_C11049: pr_out_camera_17__obj_4__obj_5_copy_device_2__device_0_ = 0
+_C1105: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_0_ = 0
+_C11050: pr_out_camera_17__obj_4__obj_5_copy_device_2__device_1_ = 0
+_C11051: pr_out_camera_17__obj_4__obj_5_copy_device_2__device_2_ = 0
+_C11052: pr_out_camera_17__obj_4__obj_5_copy_device_2__device_3_ = 0
+_C11053: pr_out_camera_17__obj_4__obj_5_copy_device_3__device_0_ = 0
+_C11054: pr_out_camera_17__obj_4__obj_5_copy_device_3__device_1_ = 0
+_C11055: pr_out_camera_17__obj_4__obj_5_copy_device_3__device_2_ = 0
+_C11056: pr_out_camera_17__obj_4__obj_5_copy_device_3__device_3_ = 0
+_C11057: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ = 0
+_C11058: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ = 0
+_C11059: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ = 0
+_C1106: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_0_ = 0
+_C11060: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ = 0
+_C11061: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ = 0
+_C11062: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ = 0
+_C11063: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ = 0
+_C11064: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ = 0
+_C11065: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ = 0
+_C11066: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ = 0
+_C11067: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ = 0
+_C11068: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ = 0
+_C11069: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ = 0
+_C1107: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_1_ = 0
+_C11070: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ = 0
+_C11071: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ = 0
+_C11072: pr_out_camera_17__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ = 0
+_C11073: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ = 0
+_C11074: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ = 0
+_C11075: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ = 0
+_C11076: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ = 0
+_C11077: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ = 0
+_C11078: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ = 0
+_C11079: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ = 0
+_C1108: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_1_ = 0
+_C11080: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ = 0
+_C11081: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ = 0
+_C11082: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ = 0
+_C11083: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ = 0
+_C11084: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ = 0
+_C11085: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ = 0
+_C11086: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ = 0
+_C11087: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ = 0
+_C11088: pr_out_camera_17__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ = 0
+_C11089: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ = 0
+_C1109: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_2_ = 0
+_C11090: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ = 0
+_C11091: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ = 0
+_C11092: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ = 0
+_C11093: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ = 0
+_C11094: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ = 0
+_C11095: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ = 0
+_C11096: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ = 0
+_C11097: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ = 0
+_C11098: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ = 0
+_C11099: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ = 0
+_C111: sn_center__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C1110: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_2_ = 0
+_C11100: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ = 0
+_C11101: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ = 0
+_C11102: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ = 0
+_C11103: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ = 0
+_C11104: pr_out_camera_17__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ = 0
+_C11105: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ = 0
+_C11106: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ = 0
+_C11107: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ = 0
+_C11108: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ = 0
+_C11109: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ = 0
+_C1111: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_2__device_3_ = 0
+_C11110: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ = 0
+_C11111: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ = 0
+_C11112: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ = 0
+_C11113: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ = 0
+_C11114: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ = 0
+_C11115: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ = 0
+_C11116: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ = 0
+_C11117: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ = 0
+_C11118: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ = 0
+_C11119: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ = 0
+_C1112: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_2__device_3_ = 0
+_C11120: pr_out_camera_17__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ = 0
+_C11121: pr_out_camera_18__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11122: pr_out_camera_18__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11123: pr_out_camera_18__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11124: pr_out_camera_18__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11125: pr_out_camera_18__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11126: pr_out_camera_18__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11127: pr_out_camera_18__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11128: pr_out_camera_18__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11129: pr_out_camera_18__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C1113: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_0_ = 0
+_C11130: pr_out_camera_18__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11131: pr_out_camera_18__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11132: pr_out_camera_18__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11133: pr_out_camera_18__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11134: pr_out_camera_18__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11135: pr_out_camera_18__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11136: pr_out_camera_18__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11137: pr_out_camera_18__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C11138: pr_out_camera_18__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C11139: pr_out_camera_18__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C1114: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_0_ = 0
+_C11140: pr_out_camera_18__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C11141: pr_out_camera_18__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C11142: pr_out_camera_18__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C11143: pr_out_camera_18__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C11144: pr_out_camera_18__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C11145: pr_out_camera_18__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C11146: pr_out_camera_18__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C11147: pr_out_camera_18__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C11148: pr_out_camera_18__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C11149: pr_out_camera_18__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C1115: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_1_ = 0
+_C11150: pr_out_camera_18__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C11151: pr_out_camera_18__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C11152: pr_out_camera_18__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C11153: pr_out_camera_18__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C11154: pr_out_camera_18__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C11155: pr_out_camera_18__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C11156: pr_out_camera_18__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C11157: pr_out_camera_18__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C11158: pr_out_camera_18__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C11159: pr_out_camera_18__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C1116: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_1_ = 0
+_C11160: pr_out_camera_18__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C11161: pr_out_camera_18__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C11162: pr_out_camera_18__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C11163: pr_out_camera_18__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C11164: pr_out_camera_18__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C11165: pr_out_camera_18__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C11166: pr_out_camera_18__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C11167: pr_out_camera_18__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C11168: pr_out_camera_18__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C11169: pr_out_camera_18__obj_4__obj_5_copy_device_0__device_0_ = 0
+_C1117: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_2_ = 0
+_C11170: pr_out_camera_18__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C11171: pr_out_camera_18__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C11172: pr_out_camera_18__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C11173: pr_out_camera_18__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C11174: pr_out_camera_18__obj_4__obj_5_copy_device_1__device_1_ = 0
+_C11175: pr_out_camera_18__obj_4__obj_5_copy_device_1__device_2_ = 0
+_C11176: pr_out_camera_18__obj_4__obj_5_copy_device_1__device_3_ = 0
+_C11177: pr_out_camera_18__obj_4__obj_5_copy_device_2__device_0_ = 0
+_C11178: pr_out_camera_18__obj_4__obj_5_copy_device_2__device_1_ = 0
+_C11179: pr_out_camera_18__obj_4__obj_5_copy_device_2__device_2_ = 0
+_C1118: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_2_ = 0
+_C11180: pr_out_camera_18__obj_4__obj_5_copy_device_2__device_3_ = 0
+_C11181: pr_out_camera_18__obj_4__obj_5_copy_device_3__device_0_ = 0
+_C11182: pr_out_camera_18__obj_4__obj_5_copy_device_3__device_1_ = 0
+_C11183: pr_out_camera_18__obj_4__obj_5_copy_device_3__device_2_ = 0
+_C11184: pr_out_camera_18__obj_4__obj_5_copy_device_3__device_3_ = 0
+_C11185: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ = 0
+_C11186: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ = 0
+_C11187: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ = 0
+_C11188: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ = 0
+_C11189: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ = 0
+_C1119: pr_in_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ - pr_out_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ - sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ - tr_center___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + tr_edge_2___center__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_0__obj_5_copy_device_3__device_3_ = 0
+_C11190: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ = 0
+_C11191: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ = 0
+_C11192: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ = 0
+_C11193: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ = 0
+_C11194: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ = 0
+_C11195: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ = 0
+_C11196: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ = 0
+_C11197: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ = 0
+_C11198: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ = 0
+_C11199: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ = 0
+_C112: pr_in_center__obj_4__obj_5_copy_device_0__device_3_
+ - pr_out_center__obj_4__obj_5_copy_device_0__device_3_
+ - sn_center__obj_4__obj_5_copy_device_0__device_3_
+ + tr_center___edge_0__obj_4__obj_5_copy_device_0__device_3_
+ + tr_center___edge_1__obj_4__obj_5_copy_device_0__device_3_
+ + tr_center___edge_2__obj_4__obj_5_copy_device_0__device_3_
+ + tr_center___edge_3__obj_4__obj_5_copy_device_0__device_3_
+ - tr_edge_0___center__obj_4__obj_5_copy_device_0__device_3_
+ - tr_edge_1___center__obj_4__obj_5_copy_device_0__device_3_
+ - tr_edge_2___center__obj_4__obj_5_copy_device_0__device_3_
+ - tr_edge_3___center__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C1120: sn_edge_2__obj_5_copy_device_0__obj_5_copy_device_3__device_3_ = 0
+_C11200: pr_out_camera_18__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ = 0
+_C11201: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ = 0
+_C11202: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ = 0
+_C11203: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ = 0
+_C11204: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ = 0
+_C11205: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ = 0
+_C11206: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ = 0
+_C11207: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ = 0
+_C11208: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ = 0
+_C11209: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ = 0
+_C1121: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_0_ = 0
+_C11210: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ = 0
+_C11211: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ = 0
+_C11212: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ = 0
+_C11213: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ = 0
+_C11214: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ = 0
+_C11215: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ = 0
+_C11216: pr_out_camera_18__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ = 0
+_C11217: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ = 0
+_C11218: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ = 0
+_C11219: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ = 0
+_C1122: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_0_ = 0
+_C11220: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ = 0
+_C11221: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ = 0
+_C11222: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ = 0
+_C11223: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ = 0
+_C11224: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ = 0
+_C11225: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ = 0
+_C11226: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ = 0
+_C11227: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ = 0
+_C11228: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ = 0
+_C11229: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ = 0
+_C1123: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_1_ = 0
+_C11230: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ = 0
+_C11231: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ = 0
+_C11232: pr_out_camera_18__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ = 0
+_C11233: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ = 0
+_C11234: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ = 0
+_C11235: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ = 0
+_C11236: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ = 0
+_C11237: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ = 0
+_C11238: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ = 0
+_C11239: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ = 0
+_C1124: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_1_ = 0
+_C11240: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ = 0
+_C11241: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ = 0
+_C11242: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ = 0
+_C11243: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ = 0
+_C11244: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ = 0
+_C11245: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ = 0
+_C11246: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ = 0
+_C11247: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ = 0
+_C11248: pr_out_camera_18__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ = 0
+_C11249: pr_out_camera_19__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C1125: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_2_ = 0
+_C11250: pr_out_camera_19__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11251: pr_out_camera_19__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11252: pr_out_camera_19__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11253: pr_out_camera_19__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11254: pr_out_camera_19__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11255: pr_out_camera_19__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11256: pr_out_camera_19__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11257: pr_out_camera_19__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11258: pr_out_camera_19__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11259: pr_out_camera_19__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C1126: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_2_ = 0
+_C11260: pr_out_camera_19__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11261: pr_out_camera_19__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11262: pr_out_camera_19__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11263: pr_out_camera_19__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11264: pr_out_camera_19__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11265: pr_out_camera_19__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C11266: pr_out_camera_19__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C11267: pr_out_camera_19__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C11268: pr_out_camera_19__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C11269: pr_out_camera_19__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C1127: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_0__device_3_ = 0
+_C11270: pr_out_camera_19__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C11271: pr_out_camera_19__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C11272: pr_out_camera_19__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C11273: pr_out_camera_19__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C11274: pr_out_camera_19__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C11275: pr_out_camera_19__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C11276: pr_out_camera_19__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C11277: pr_out_camera_19__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C11278: pr_out_camera_19__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C11279: pr_out_camera_19__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C1128: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_0__device_3_ = 0
+_C11280: pr_out_camera_19__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C11281: pr_out_camera_19__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C11282: pr_out_camera_19__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C11283: pr_out_camera_19__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C11284: pr_out_camera_19__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C11285: pr_out_camera_19__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C11286: pr_out_camera_19__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C11287: pr_out_camera_19__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C11288: pr_out_camera_19__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C11289: pr_out_camera_19__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C1129: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_0_ = 0
+_C11290: pr_out_camera_19__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C11291: pr_out_camera_19__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C11292: pr_out_camera_19__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C11293: pr_out_camera_19__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C11294: pr_out_camera_19__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C11295: pr_out_camera_19__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C11296: pr_out_camera_19__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C11297: pr_out_camera_19__obj_4__obj_5_copy_device_0__device_0_ = 0
+_C11298: pr_out_camera_19__obj_4__obj_5_copy_device_0__device_1_ = 0
+_C11299: pr_out_camera_19__obj_4__obj_5_copy_device_0__device_2_ = 0
+_C113: - pr_in_center__obj_1__obj_5_copy_device_0__device_3_
+ + pr_out_center__obj_4__obj_5_copy_device_0__device_3_ <= 0
+_C1130: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_0_ = 0
+_C11300: pr_out_camera_19__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C11301: pr_out_camera_19__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C11302: pr_out_camera_19__obj_4__obj_5_copy_device_1__device_1_ = 0
+_C11303: pr_out_camera_19__obj_4__obj_5_copy_device_1__device_2_ = 0
+_C11304: pr_out_camera_19__obj_4__obj_5_copy_device_1__device_3_ = 0
+_C11305: pr_out_camera_19__obj_4__obj_5_copy_device_2__device_0_ = 0
+_C11306: pr_out_camera_19__obj_4__obj_5_copy_device_2__device_1_ = 0
+_C11307: pr_out_camera_19__obj_4__obj_5_copy_device_2__device_2_ = 0
+_C11308: pr_out_camera_19__obj_4__obj_5_copy_device_2__device_3_ = 0
+_C11309: pr_out_camera_19__obj_4__obj_5_copy_device_3__device_0_ = 0
+_C1131: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_1_ = 0
+_C11310: pr_out_camera_19__obj_4__obj_5_copy_device_3__device_1_ = 0
+_C11311: pr_out_camera_19__obj_4__obj_5_copy_device_3__device_2_ = 0
+_C11312: pr_out_camera_19__obj_4__obj_5_copy_device_3__device_3_ = 0
+_C11313: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_0__device_0_
+ = 0
+_C11314: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_0__device_1_
+ = 0
+_C11315: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_0__device_2_
+ = 0
+_C11316: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_0__device_3_
+ = 0
+_C11317: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_1__device_0_
+ = 0
+_C11318: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_1__device_1_
+ = 0
+_C11319: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_1__device_2_
+ = 0
+_C1132: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_1_ = 0
+_C11320: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_1__device_3_
+ = 0
+_C11321: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_2__device_0_
+ = 0
+_C11322: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_2__device_1_
+ = 0
+_C11323: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_2__device_2_
+ = 0
+_C11324: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_2__device_3_
+ = 0
+_C11325: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_3__device_0_
+ = 0
+_C11326: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_3__device_1_
+ = 0
+_C11327: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_3__device_2_
+ = 0
+_C11328: pr_out_camera_19__obj_5_copy_device_0__obj_5_copy_device_3__device_3_
+ = 0
+_C11329: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_0__device_0_
+ = 0
+_C1133: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_2_ = 0
+_C11330: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_0__device_1_
+ = 0
+_C11331: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_0__device_2_
+ = 0
+_C11332: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_0__device_3_
+ = 0
+_C11333: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_1__device_0_
+ = 0
+_C11334: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_1__device_1_
+ = 0
+_C11335: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_1__device_2_
+ = 0
+_C11336: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ = 0
+_C11337: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ = 0
+_C11338: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ = 0
+_C11339: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ = 0
+_C1134: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_2_ = 0
+_C11340: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ = 0
+_C11341: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ = 0
+_C11342: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ = 0
+_C11343: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ = 0
+_C11344: pr_out_camera_19__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ = 0
+_C11345: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ = 0
+_C11346: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ = 0
+_C11347: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ = 0
+_C11348: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ = 0
+_C11349: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ = 0
+_C1135: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_1__device_3_ = 0
+_C11350: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ = 0
+_C11351: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ = 0
+_C11352: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ = 0
+_C11353: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ = 0
+_C11354: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ = 0
+_C11355: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ = 0
+_C11356: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ = 0
+_C11357: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ = 0
+_C11358: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ = 0
+_C11359: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ = 0
+_C1136: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_1__device_3_ = 0
+_C11360: pr_out_camera_19__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ = 0
+_C11361: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ = 0
+_C11362: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ = 0
+_C11363: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ = 0
+_C11364: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ = 0
+_C11365: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ = 0
+_C11366: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ = 0
+_C11367: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ = 0
+_C11368: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ = 0
+_C11369: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ = 0
+_C1137: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_0_ = 0
+_C11370: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ = 0
+_C11371: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ = 0
+_C11372: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ = 0
+_C11373: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ = 0
+_C11374: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ = 0
+_C11375: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ = 0
+_C11376: pr_out_camera_19__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ = 0
+_C11377: pr_out_center__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11378: pr_out_center__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11379: pr_out_center__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C1138: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_0_ = 0
+_C11380: pr_out_center__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11381: pr_out_center__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11382: pr_out_center__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11383: pr_out_center__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11384: pr_out_center__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11385: pr_out_center__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11386: pr_out_center__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11387: pr_out_center__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11388: pr_out_center__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11389: pr_out_center__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C1139: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_1_ = 0
+_C11390: pr_out_center__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11391: pr_out_center__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11392: pr_out_center__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11393: pr_out_edge_0__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11394: pr_out_edge_0__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11395: pr_out_edge_0__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11396: pr_out_edge_0__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11397: pr_out_edge_0__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11398: pr_out_edge_0__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11399: pr_out_edge_0__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C114: - pr_in_center__obj_2__obj_5_copy_device_0__device_3_
+ + pr_out_center__obj_4__obj_5_copy_device_0__device_3_ <= 0
+_C1140: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_1_ = 0
+_C11400: pr_out_edge_0__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11401: pr_out_edge_0__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11402: pr_out_edge_0__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11403: pr_out_edge_0__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11404: pr_out_edge_0__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11405: pr_out_edge_0__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11406: pr_out_edge_0__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11407: pr_out_edge_0__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11408: pr_out_edge_0__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11409: pr_out_edge_1__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C1141: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_2_ = 0
+_C11410: pr_out_edge_1__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11411: pr_out_edge_1__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11412: pr_out_edge_1__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11413: pr_out_edge_1__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11414: pr_out_edge_1__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11415: pr_out_edge_1__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11416: pr_out_edge_1__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11417: pr_out_edge_1__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11418: pr_out_edge_1__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11419: pr_out_edge_1__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C1142: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_2_ = 0
+_C11420: pr_out_edge_1__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11421: pr_out_edge_1__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11422: pr_out_edge_1__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11423: pr_out_edge_1__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11424: pr_out_edge_1__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11425: pr_out_edge_2__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11426: pr_out_edge_2__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11427: pr_out_edge_2__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11428: pr_out_edge_2__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11429: pr_out_edge_2__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C1143: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_2__device_3_ = 0
+_C11430: pr_out_edge_2__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11431: pr_out_edge_2__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11432: pr_out_edge_2__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11433: pr_out_edge_2__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11434: pr_out_edge_2__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11435: pr_out_edge_2__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11436: pr_out_edge_2__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11437: pr_out_edge_2__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11438: pr_out_edge_2__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11439: pr_out_edge_2__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C1144: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_2__device_3_ = 0
+_C11440: pr_out_edge_2__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11441: pr_out_edge_3__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11442: pr_out_edge_3__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11443: pr_out_edge_3__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11444: pr_out_edge_3__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11445: pr_out_edge_3__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11446: pr_out_edge_3__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11447: pr_out_edge_3__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11448: pr_out_edge_3__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11449: pr_out_edge_3__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C1145: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_0_ = 0
+_C11450: pr_out_edge_3__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11451: pr_out_edge_3__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11452: pr_out_edge_3__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11453: pr_out_edge_3__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11454: pr_out_edge_3__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11455: pr_out_edge_3__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11456: pr_out_edge_3__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11457: pr_out_camera_0__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11458: pr_out_camera_0__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11459: pr_out_camera_0__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C1146: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_0_ = 0
+_C11460: pr_out_camera_0__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11461: pr_out_camera_0__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11462: pr_out_camera_0__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11463: pr_out_camera_0__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11464: pr_out_camera_0__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11465: pr_out_camera_0__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11466: pr_out_camera_0__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11467: pr_out_camera_0__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11468: pr_out_camera_0__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11469: pr_out_camera_0__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C1147: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_1_ = 0
+_C11470: pr_out_camera_0__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11471: pr_out_camera_0__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11472: pr_out_camera_0__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11473: pr_out_camera_1__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11474: pr_out_camera_1__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11475: pr_out_camera_1__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11476: pr_out_camera_1__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11477: pr_out_camera_1__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11478: pr_out_camera_1__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11479: pr_out_camera_1__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C1148: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_1_ = 0
+_C11480: pr_out_camera_1__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11481: pr_out_camera_1__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11482: pr_out_camera_1__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11483: pr_out_camera_1__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11484: pr_out_camera_1__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11485: pr_out_camera_1__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11486: pr_out_camera_1__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11487: pr_out_camera_1__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11488: pr_out_camera_1__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11489: pr_out_camera_2__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C1149: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_2_ = 0
+_C11490: pr_out_camera_2__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11491: pr_out_camera_2__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11492: pr_out_camera_2__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11493: pr_out_camera_2__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11494: pr_out_camera_2__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11495: pr_out_camera_2__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11496: pr_out_camera_2__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11497: pr_out_camera_2__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11498: pr_out_camera_2__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11499: pr_out_camera_2__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C115: - pr_in_center__obj_3__obj_5_copy_device_0__device_3_
+ + pr_out_center__obj_4__obj_5_copy_device_0__device_3_ <= 0
+_C1150: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_2_ = 0
+_C11500: pr_out_camera_2__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11501: pr_out_camera_2__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11502: pr_out_camera_2__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11503: pr_out_camera_2__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11504: pr_out_camera_2__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11505: pr_out_camera_3__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11506: pr_out_camera_3__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11507: pr_out_camera_3__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11508: pr_out_camera_3__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11509: pr_out_camera_3__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C1151: pr_in_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ - pr_out_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ - sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ - tr_center___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + tr_edge_2___center__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_1__obj_5_copy_device_3__device_3_ = 0
+_C11510: pr_out_camera_3__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11511: pr_out_camera_3__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11512: pr_out_camera_3__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11513: pr_out_camera_3__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11514: pr_out_camera_3__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11515: pr_out_camera_3__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11516: pr_out_camera_3__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11517: pr_out_camera_3__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11518: pr_out_camera_3__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11519: pr_out_camera_3__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C1152: sn_edge_2__obj_5_copy_device_1__obj_5_copy_device_3__device_3_ = 0
+_C11520: pr_out_camera_3__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11521: pr_out_camera_4__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11522: pr_out_camera_4__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11523: pr_out_camera_4__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11524: pr_out_camera_4__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11525: pr_out_camera_4__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11526: pr_out_camera_4__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11527: pr_out_camera_4__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11528: pr_out_camera_4__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11529: pr_out_camera_4__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C1153: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_0_ = 0
+_C11530: pr_out_camera_4__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11531: pr_out_camera_4__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11532: pr_out_camera_4__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11533: pr_out_camera_4__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11534: pr_out_camera_4__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11535: pr_out_camera_4__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11536: pr_out_camera_4__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11537: pr_out_camera_5__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11538: pr_out_camera_5__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11539: pr_out_camera_5__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C1154: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_0_ = 0
+_C11540: pr_out_camera_5__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11541: pr_out_camera_5__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11542: pr_out_camera_5__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11543: pr_out_camera_5__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11544: pr_out_camera_5__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11545: pr_out_camera_5__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11546: pr_out_camera_5__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11547: pr_out_camera_5__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11548: pr_out_camera_5__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11549: pr_out_camera_5__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C1155: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_1_ = 0
+_C11550: pr_out_camera_5__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11551: pr_out_camera_5__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11552: pr_out_camera_5__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11553: pr_out_camera_6__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11554: pr_out_camera_6__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11555: pr_out_camera_6__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11556: pr_out_camera_6__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11557: pr_out_camera_6__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11558: pr_out_camera_6__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11559: pr_out_camera_6__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C1156: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_1_ = 0
+_C11560: pr_out_camera_6__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11561: pr_out_camera_6__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11562: pr_out_camera_6__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11563: pr_out_camera_6__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11564: pr_out_camera_6__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11565: pr_out_camera_6__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11566: pr_out_camera_6__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11567: pr_out_camera_6__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11568: pr_out_camera_6__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11569: pr_out_camera_7__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C1157: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_2_ = 0
+_C11570: pr_out_camera_7__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11571: pr_out_camera_7__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11572: pr_out_camera_7__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11573: pr_out_camera_7__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11574: pr_out_camera_7__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11575: pr_out_camera_7__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11576: pr_out_camera_7__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11577: pr_out_camera_7__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11578: pr_out_camera_7__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11579: pr_out_camera_7__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C1158: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_2_ = 0
+_C11580: pr_out_camera_7__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11581: pr_out_camera_7__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11582: pr_out_camera_7__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11583: pr_out_camera_7__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11584: pr_out_camera_7__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11585: pr_out_camera_8__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11586: pr_out_camera_8__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11587: pr_out_camera_8__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11588: pr_out_camera_8__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11589: pr_out_camera_8__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C1159: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_0__device_3_ = 0
+_C11590: pr_out_camera_8__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11591: pr_out_camera_8__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11592: pr_out_camera_8__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11593: pr_out_camera_8__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11594: pr_out_camera_8__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11595: pr_out_camera_8__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11596: pr_out_camera_8__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11597: pr_out_camera_8__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11598: pr_out_camera_8__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11599: pr_out_camera_8__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C116: sn_center__obj_4__obj_5_copy_device_0__device_3_ = 0
+_C1160: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_0__device_3_ = 0
+_C11600: pr_out_camera_8__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11601: pr_out_camera_9__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11602: pr_out_camera_9__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11603: pr_out_camera_9__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11604: pr_out_camera_9__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11605: pr_out_camera_9__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11606: pr_out_camera_9__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11607: pr_out_camera_9__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11608: pr_out_camera_9__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11609: pr_out_camera_9__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C1161: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_0_ = 0
+_C11610: pr_out_camera_9__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11611: pr_out_camera_9__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11612: pr_out_camera_9__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11613: pr_out_camera_9__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11614: pr_out_camera_9__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11615: pr_out_camera_9__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11616: pr_out_camera_9__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11617: pr_out_camera_10__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11618: pr_out_camera_10__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11619: pr_out_camera_10__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C1162: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_0_ = 0
+_C11620: pr_out_camera_10__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11621: pr_out_camera_10__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11622: pr_out_camera_10__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11623: pr_out_camera_10__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11624: pr_out_camera_10__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11625: pr_out_camera_10__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11626: pr_out_camera_10__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11627: pr_out_camera_10__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11628: pr_out_camera_10__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11629: pr_out_camera_10__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C1163: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_1_ = 0
+_C11630: pr_out_camera_10__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11631: pr_out_camera_10__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11632: pr_out_camera_10__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11633: pr_out_camera_11__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11634: pr_out_camera_11__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11635: pr_out_camera_11__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11636: pr_out_camera_11__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11637: pr_out_camera_11__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11638: pr_out_camera_11__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11639: pr_out_camera_11__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C1164: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_1_ = 0
+_C11640: pr_out_camera_11__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11641: pr_out_camera_11__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11642: pr_out_camera_11__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11643: pr_out_camera_11__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11644: pr_out_camera_11__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11645: pr_out_camera_11__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11646: pr_out_camera_11__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11647: pr_out_camera_11__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11648: pr_out_camera_11__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11649: pr_out_camera_12__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C1165: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_2_ = 0
+_C11650: pr_out_camera_12__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11651: pr_out_camera_12__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11652: pr_out_camera_12__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11653: pr_out_camera_12__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11654: pr_out_camera_12__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11655: pr_out_camera_12__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11656: pr_out_camera_12__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11657: pr_out_camera_12__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11658: pr_out_camera_12__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11659: pr_out_camera_12__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C1166: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_2_ = 0
+_C11660: pr_out_camera_12__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11661: pr_out_camera_12__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11662: pr_out_camera_12__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11663: pr_out_camera_12__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11664: pr_out_camera_12__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11665: pr_out_camera_13__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11666: pr_out_camera_13__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11667: pr_out_camera_13__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11668: pr_out_camera_13__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11669: pr_out_camera_13__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C1167: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_1__device_3_ = 0
+_C11670: pr_out_camera_13__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11671: pr_out_camera_13__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11672: pr_out_camera_13__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11673: pr_out_camera_13__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11674: pr_out_camera_13__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11675: pr_out_camera_13__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11676: pr_out_camera_13__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11677: pr_out_camera_13__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11678: pr_out_camera_13__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11679: pr_out_camera_13__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C1168: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_1__device_3_ = 0
+_C11680: pr_out_camera_13__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11681: pr_out_camera_14__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11682: pr_out_camera_14__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11683: pr_out_camera_14__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11684: pr_out_camera_14__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11685: pr_out_camera_14__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11686: pr_out_camera_14__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11687: pr_out_camera_14__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11688: pr_out_camera_14__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11689: pr_out_camera_14__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C1169: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_0_ = 0
+_C11690: pr_out_camera_14__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11691: pr_out_camera_14__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11692: pr_out_camera_14__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11693: pr_out_camera_14__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11694: pr_out_camera_14__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11695: pr_out_camera_14__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11696: pr_out_camera_14__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11697: pr_out_camera_15__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11698: pr_out_camera_15__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11699: pr_out_camera_15__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C117: pr_in_center__obj_4__obj_5_copy_device_1__device_0_
+ - pr_out_center__obj_4__obj_5_copy_device_1__device_0_
+ - sn_center__obj_4__obj_5_copy_device_1__device_0_
+ + tr_center___edge_0__obj_4__obj_5_copy_device_1__device_0_
+ + tr_center___edge_1__obj_4__obj_5_copy_device_1__device_0_
+ + tr_center___edge_2__obj_4__obj_5_copy_device_1__device_0_
+ + tr_center___edge_3__obj_4__obj_5_copy_device_1__device_0_
+ - tr_edge_0___center__obj_4__obj_5_copy_device_1__device_0_
+ - tr_edge_1___center__obj_4__obj_5_copy_device_1__device_0_
+ - tr_edge_2___center__obj_4__obj_5_copy_device_1__device_0_
+ - tr_edge_3___center__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C1170: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_0_ = 0
+_C11700: pr_out_camera_15__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11701: pr_out_camera_15__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11702: pr_out_camera_15__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11703: pr_out_camera_15__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11704: pr_out_camera_15__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11705: pr_out_camera_15__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11706: pr_out_camera_15__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11707: pr_out_camera_15__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11708: pr_out_camera_15__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11709: pr_out_camera_15__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C1171: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_1_ = 0
+_C11710: pr_out_camera_15__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11711: pr_out_camera_15__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11712: pr_out_camera_15__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11713: pr_out_camera_16__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11714: pr_out_camera_16__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11715: pr_out_camera_16__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11716: pr_out_camera_16__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11717: pr_out_camera_16__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11718: pr_out_camera_16__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11719: pr_out_camera_16__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C1172: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_1_ = 0
+_C11720: pr_out_camera_16__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11721: pr_out_camera_16__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11722: pr_out_camera_16__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11723: pr_out_camera_16__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11724: pr_out_camera_16__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11725: pr_out_camera_16__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11726: pr_out_camera_16__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11727: pr_out_camera_16__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11728: pr_out_camera_16__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11729: pr_out_camera_17__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C1173: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_2_ = 0
+_C11730: pr_out_camera_17__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11731: pr_out_camera_17__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11732: pr_out_camera_17__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11733: pr_out_camera_17__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11734: pr_out_camera_17__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11735: pr_out_camera_17__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11736: pr_out_camera_17__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11737: pr_out_camera_17__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11738: pr_out_camera_17__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11739: pr_out_camera_17__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C1174: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_2_ = 0
+_C11740: pr_out_camera_17__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11741: pr_out_camera_17__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11742: pr_out_camera_17__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11743: pr_out_camera_17__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11744: pr_out_camera_17__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11745: pr_out_camera_18__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11746: pr_out_camera_18__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11747: pr_out_camera_18__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11748: pr_out_camera_18__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11749: pr_out_camera_18__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C1175: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_2__device_3_ = 0
+_C11750: pr_out_camera_18__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11751: pr_out_camera_18__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11752: pr_out_camera_18__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11753: pr_out_camera_18__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11754: pr_out_camera_18__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11755: pr_out_camera_18__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11756: pr_out_camera_18__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11757: pr_out_camera_18__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11758: pr_out_camera_18__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11759: pr_out_camera_18__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C1176: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_2__device_3_ = 0
+_C11760: pr_out_camera_18__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11761: pr_out_camera_19__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11762: pr_out_camera_19__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11763: pr_out_camera_19__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11764: pr_out_camera_19__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11765: pr_out_camera_19__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11766: pr_out_camera_19__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11767: pr_out_camera_19__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11768: pr_out_camera_19__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11769: pr_out_camera_19__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C1177: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_0_ = 0
+_C11770: pr_out_camera_19__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11771: pr_out_camera_19__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11772: pr_out_camera_19__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11773: pr_out_camera_19__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11774: pr_out_camera_19__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11775: pr_out_camera_19__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11776: pr_out_camera_19__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11777: pr_out_device_0__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11778: pr_out_device_0__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11779: pr_out_device_0__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C1178: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_0_ = 0
+_C11780: pr_out_device_0__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11781: pr_out_device_0__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11782: pr_out_device_0__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11783: pr_out_device_0__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11784: pr_out_device_0__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11785: pr_out_device_0__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11786: pr_out_device_0__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11787: pr_out_device_0__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11788: pr_out_device_0__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11789: pr_out_device_0__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C1179: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_1_ = 0
+_C11790: pr_out_device_0__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11791: pr_out_device_0__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11792: pr_out_device_0__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11793: pr_out_device_1__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11794: pr_out_device_1__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11795: pr_out_device_1__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11796: pr_out_device_1__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11797: pr_out_device_1__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11798: pr_out_device_1__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11799: pr_out_device_1__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C118: - pr_in_center__obj_1__obj_5_copy_device_1__device_0_
+ + pr_out_center__obj_4__obj_5_copy_device_1__device_0_ <= 0
+_C1180: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_1_ = 0
+_C11800: pr_out_device_1__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11801: pr_out_device_1__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11802: pr_out_device_1__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11803: pr_out_device_1__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11804: pr_out_device_1__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11805: pr_out_device_1__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11806: pr_out_device_1__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11807: pr_out_device_1__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11808: pr_out_device_1__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11809: pr_out_device_2__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C1181: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_2_ = 0
+_C11810: pr_out_device_2__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11811: pr_out_device_2__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11812: pr_out_device_2__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11813: pr_out_device_2__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C11814: pr_out_device_2__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11815: pr_out_device_2__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11816: pr_out_device_2__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11817: pr_out_device_2__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11818: pr_out_device_2__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11819: pr_out_device_2__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C1182: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_2_ = 0
+_C11820: pr_out_device_2__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11821: pr_out_device_2__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11822: pr_out_device_2__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11823: pr_out_device_2__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C11824: pr_out_device_2__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11825: pr_out_device_3__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C11826: pr_out_device_3__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C11827: pr_out_device_3__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C11828: pr_out_device_3__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C11829: pr_out_device_3__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C1183: pr_in_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ - pr_out_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ - sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ - tr_center___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + tr_edge_2___center__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_2__obj_5_copy_device_3__device_3_ = 0
+_C11830: pr_out_device_3__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C11831: pr_out_device_3__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C11832: pr_out_device_3__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C11833: pr_out_device_3__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C11834: pr_out_device_3__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C11835: pr_out_device_3__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C11836: pr_out_device_3__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C11837: pr_out_device_3__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C11838: pr_out_device_3__obj_1__obj_5_copy_device_3__device_1_ = 0
+_C11839: pr_out_device_3__obj_1__obj_5_copy_device_3__device_2_ = 0
+_C1184: sn_edge_2__obj_5_copy_device_2__obj_5_copy_device_3__device_3_ = 0
+_C11840: pr_out_device_3__obj_1__obj_5_copy_device_3__device_3_ = 0
+_C11841: pr_out_center__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C11842: pr_out_center__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C11843: pr_out_center__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C11844: pr_out_center__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C11845: pr_out_center__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C11846: pr_out_center__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C11847: pr_out_center__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C11848: pr_out_center__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C11849: pr_out_center__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C1185: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_0_ = 0
+_C11850: pr_out_center__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C11851: pr_out_center__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C11852: pr_out_center__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C11853: pr_out_center__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C11854: pr_out_center__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C11855: pr_out_center__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C11856: pr_out_center__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C11857: pr_out_edge_0__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C11858: pr_out_edge_0__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C11859: pr_out_edge_0__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C1186: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_0_ = 0
+_C11860: pr_out_edge_0__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C11861: pr_out_edge_0__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C11862: pr_out_edge_0__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C11863: pr_out_edge_0__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C11864: pr_out_edge_0__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C11865: pr_out_edge_0__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C11866: pr_out_edge_0__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C11867: pr_out_edge_0__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C11868: pr_out_edge_0__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C11869: pr_out_edge_0__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C1187: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_1_ = 0
+_C11870: pr_out_edge_0__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C11871: pr_out_edge_0__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C11872: pr_out_edge_0__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C11873: pr_out_edge_1__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C11874: pr_out_edge_1__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C11875: pr_out_edge_1__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C11876: pr_out_edge_1__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C11877: pr_out_edge_1__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C11878: pr_out_edge_1__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C11879: pr_out_edge_1__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C1188: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_1_ = 0
+_C11880: pr_out_edge_1__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C11881: pr_out_edge_1__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C11882: pr_out_edge_1__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C11883: pr_out_edge_1__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C11884: pr_out_edge_1__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C11885: pr_out_edge_1__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C11886: pr_out_edge_1__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C11887: pr_out_edge_1__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C11888: pr_out_edge_1__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C11889: pr_out_edge_2__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C1189: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_2_ = 0
+_C11890: pr_out_edge_2__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C11891: pr_out_edge_2__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C11892: pr_out_edge_2__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C11893: pr_out_edge_2__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C11894: pr_out_edge_2__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C11895: pr_out_edge_2__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C11896: pr_out_edge_2__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C11897: pr_out_edge_2__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C11898: pr_out_edge_2__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C11899: pr_out_edge_2__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C119: - pr_in_center__obj_2__obj_5_copy_device_1__device_0_
+ + pr_out_center__obj_4__obj_5_copy_device_1__device_0_ <= 0
+_C1190: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_2_ = 0
+_C11900: pr_out_edge_2__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C11901: pr_out_edge_2__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C11902: pr_out_edge_2__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C11903: pr_out_edge_2__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C11904: pr_out_edge_2__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C11905: pr_out_edge_3__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C11906: pr_out_edge_3__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C11907: pr_out_edge_3__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C11908: pr_out_edge_3__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C11909: pr_out_edge_3__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C1191: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_0__device_3_ = 0
+_C11910: pr_out_edge_3__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C11911: pr_out_edge_3__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C11912: pr_out_edge_3__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C11913: pr_out_edge_3__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C11914: pr_out_edge_3__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C11915: pr_out_edge_3__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C11916: pr_out_edge_3__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C11917: pr_out_edge_3__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C11918: pr_out_edge_3__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C11919: pr_out_edge_3__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C1192: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_0__device_3_ = 0
+_C11920: pr_out_edge_3__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C11921: pr_out_camera_0__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C11922: pr_out_camera_0__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C11923: pr_out_camera_0__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C11924: pr_out_camera_0__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C11925: pr_out_camera_0__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C11926: pr_out_camera_0__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C11927: pr_out_camera_0__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C11928: pr_out_camera_0__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C11929: pr_out_camera_0__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C1193: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_0_ = 0
+_C11930: pr_out_camera_0__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C11931: pr_out_camera_0__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C11932: pr_out_camera_0__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C11933: pr_out_camera_0__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C11934: pr_out_camera_0__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C11935: pr_out_camera_0__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C11936: pr_out_camera_0__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C11937: pr_out_camera_1__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C11938: pr_out_camera_1__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C11939: pr_out_camera_1__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C1194: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_0_ = 0
+_C11940: pr_out_camera_1__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C11941: pr_out_camera_1__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C11942: pr_out_camera_1__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C11943: pr_out_camera_1__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C11944: pr_out_camera_1__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C11945: pr_out_camera_1__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C11946: pr_out_camera_1__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C11947: pr_out_camera_1__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C11948: pr_out_camera_1__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C11949: pr_out_camera_1__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C1195: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_1_ = 0
+_C11950: pr_out_camera_1__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C11951: pr_out_camera_1__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C11952: pr_out_camera_1__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C11953: pr_out_camera_2__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C11954: pr_out_camera_2__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C11955: pr_out_camera_2__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C11956: pr_out_camera_2__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C11957: pr_out_camera_2__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C11958: pr_out_camera_2__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C11959: pr_out_camera_2__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C1196: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_1_ = 0
+_C11960: pr_out_camera_2__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C11961: pr_out_camera_2__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C11962: pr_out_camera_2__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C11963: pr_out_camera_2__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C11964: pr_out_camera_2__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C11965: pr_out_camera_2__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C11966: pr_out_camera_2__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C11967: pr_out_camera_2__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C11968: pr_out_camera_2__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C11969: pr_out_camera_3__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C1197: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_2_ = 0
+_C11970: pr_out_camera_3__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C11971: pr_out_camera_3__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C11972: pr_out_camera_3__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C11973: pr_out_camera_3__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C11974: pr_out_camera_3__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C11975: pr_out_camera_3__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C11976: pr_out_camera_3__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C11977: pr_out_camera_3__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C11978: pr_out_camera_3__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C11979: pr_out_camera_3__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C1198: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_2_ = 0
+_C11980: pr_out_camera_3__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C11981: pr_out_camera_3__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C11982: pr_out_camera_3__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C11983: pr_out_camera_3__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C11984: pr_out_camera_3__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C11985: pr_out_camera_4__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C11986: pr_out_camera_4__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C11987: pr_out_camera_4__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C11988: pr_out_camera_4__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C11989: pr_out_camera_4__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C1199: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_1__device_3_ = 0
+_C11990: pr_out_camera_4__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C11991: pr_out_camera_4__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C11992: pr_out_camera_4__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C11993: pr_out_camera_4__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C11994: pr_out_camera_4__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C11995: pr_out_camera_4__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C11996: pr_out_camera_4__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C11997: pr_out_camera_4__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C11998: pr_out_camera_4__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C11999: pr_out_camera_4__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12: sn_center__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C120: - pr_in_center__obj_3__obj_5_copy_device_1__device_0_
+ + pr_out_center__obj_4__obj_5_copy_device_1__device_0_ <= 0
+_C1200: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_1__device_3_ = 0
+_C12000: pr_out_camera_4__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12001: pr_out_camera_5__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12002: pr_out_camera_5__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12003: pr_out_camera_5__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12004: pr_out_camera_5__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12005: pr_out_camera_5__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12006: pr_out_camera_5__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12007: pr_out_camera_5__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12008: pr_out_camera_5__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12009: pr_out_camera_5__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C1201: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_0_ = 0
+_C12010: pr_out_camera_5__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12011: pr_out_camera_5__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12012: pr_out_camera_5__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12013: pr_out_camera_5__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12014: pr_out_camera_5__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12015: pr_out_camera_5__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12016: pr_out_camera_5__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12017: pr_out_camera_6__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12018: pr_out_camera_6__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12019: pr_out_camera_6__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C1202: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_0_ = 0
+_C12020: pr_out_camera_6__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12021: pr_out_camera_6__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12022: pr_out_camera_6__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12023: pr_out_camera_6__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12024: pr_out_camera_6__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12025: pr_out_camera_6__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12026: pr_out_camera_6__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12027: pr_out_camera_6__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12028: pr_out_camera_6__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12029: pr_out_camera_6__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C1203: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_1_ = 0
+_C12030: pr_out_camera_6__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12031: pr_out_camera_6__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12032: pr_out_camera_6__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12033: pr_out_camera_7__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12034: pr_out_camera_7__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12035: pr_out_camera_7__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12036: pr_out_camera_7__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12037: pr_out_camera_7__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12038: pr_out_camera_7__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12039: pr_out_camera_7__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C1204: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_1_ = 0
+_C12040: pr_out_camera_7__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12041: pr_out_camera_7__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12042: pr_out_camera_7__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12043: pr_out_camera_7__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12044: pr_out_camera_7__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12045: pr_out_camera_7__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12046: pr_out_camera_7__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12047: pr_out_camera_7__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12048: pr_out_camera_7__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12049: pr_out_camera_8__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C1205: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_2_ = 0
+_C12050: pr_out_camera_8__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12051: pr_out_camera_8__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12052: pr_out_camera_8__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12053: pr_out_camera_8__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12054: pr_out_camera_8__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12055: pr_out_camera_8__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12056: pr_out_camera_8__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12057: pr_out_camera_8__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12058: pr_out_camera_8__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12059: pr_out_camera_8__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C1206: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_2_ = 0
+_C12060: pr_out_camera_8__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12061: pr_out_camera_8__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12062: pr_out_camera_8__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12063: pr_out_camera_8__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12064: pr_out_camera_8__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12065: pr_out_camera_9__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12066: pr_out_camera_9__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12067: pr_out_camera_9__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12068: pr_out_camera_9__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12069: pr_out_camera_9__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C1207: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_2__device_3_ = 0
+_C12070: pr_out_camera_9__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12071: pr_out_camera_9__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12072: pr_out_camera_9__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12073: pr_out_camera_9__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12074: pr_out_camera_9__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12075: pr_out_camera_9__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12076: pr_out_camera_9__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12077: pr_out_camera_9__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12078: pr_out_camera_9__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12079: pr_out_camera_9__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C1208: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_2__device_3_ = 0
+_C12080: pr_out_camera_9__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12081: pr_out_camera_10__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12082: pr_out_camera_10__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12083: pr_out_camera_10__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12084: pr_out_camera_10__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12085: pr_out_camera_10__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12086: pr_out_camera_10__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12087: pr_out_camera_10__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12088: pr_out_camera_10__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12089: pr_out_camera_10__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C1209: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_0_ = 0
+_C12090: pr_out_camera_10__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12091: pr_out_camera_10__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12092: pr_out_camera_10__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12093: pr_out_camera_10__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12094: pr_out_camera_10__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12095: pr_out_camera_10__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12096: pr_out_camera_10__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12097: pr_out_camera_11__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12098: pr_out_camera_11__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12099: pr_out_camera_11__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C121: sn_center__obj_4__obj_5_copy_device_1__device_0_ = 0
+_C1210: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_0_ = 0
+_C12100: pr_out_camera_11__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12101: pr_out_camera_11__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12102: pr_out_camera_11__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12103: pr_out_camera_11__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12104: pr_out_camera_11__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12105: pr_out_camera_11__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12106: pr_out_camera_11__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12107: pr_out_camera_11__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12108: pr_out_camera_11__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12109: pr_out_camera_11__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C1211: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_1_ = 0
+_C12110: pr_out_camera_11__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12111: pr_out_camera_11__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12112: pr_out_camera_11__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12113: pr_out_camera_12__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12114: pr_out_camera_12__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12115: pr_out_camera_12__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12116: pr_out_camera_12__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12117: pr_out_camera_12__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12118: pr_out_camera_12__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12119: pr_out_camera_12__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C1212: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_1_ = 0
+_C12120: pr_out_camera_12__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12121: pr_out_camera_12__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12122: pr_out_camera_12__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12123: pr_out_camera_12__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12124: pr_out_camera_12__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12125: pr_out_camera_12__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12126: pr_out_camera_12__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12127: pr_out_camera_12__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12128: pr_out_camera_12__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12129: pr_out_camera_13__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C1213: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_2_ = 0
+_C12130: pr_out_camera_13__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12131: pr_out_camera_13__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12132: pr_out_camera_13__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12133: pr_out_camera_13__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12134: pr_out_camera_13__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12135: pr_out_camera_13__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12136: pr_out_camera_13__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12137: pr_out_camera_13__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12138: pr_out_camera_13__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12139: pr_out_camera_13__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C1214: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_2_ = 0
+_C12140: pr_out_camera_13__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12141: pr_out_camera_13__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12142: pr_out_camera_13__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12143: pr_out_camera_13__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12144: pr_out_camera_13__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12145: pr_out_camera_14__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12146: pr_out_camera_14__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12147: pr_out_camera_14__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12148: pr_out_camera_14__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12149: pr_out_camera_14__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C1215: pr_in_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ - pr_out_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ - sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ - tr_camera_10___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ - tr_camera_11___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ - tr_camera_12___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ - tr_camera_13___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ - tr_camera_14___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ - tr_center___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ - tr_device_2___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ - tr_edge_0___edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_10__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_11__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_12__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_13__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___camera_14__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___center__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___device_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_
+ + tr_edge_2___edge_0__obj_5_copy_device_3__obj_5_copy_device_3__device_3_ = 0
+_C12150: pr_out_camera_14__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12151: pr_out_camera_14__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12152: pr_out_camera_14__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12153: pr_out_camera_14__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12154: pr_out_camera_14__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12155: pr_out_camera_14__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12156: pr_out_camera_14__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12157: pr_out_camera_14__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12158: pr_out_camera_14__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12159: pr_out_camera_14__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C1216: sn_edge_2__obj_5_copy_device_3__obj_5_copy_device_3__device_3_ = 0
+_C12160: pr_out_camera_14__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12161: pr_out_camera_15__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12162: pr_out_camera_15__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12163: pr_out_camera_15__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12164: pr_out_camera_15__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12165: pr_out_camera_15__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12166: pr_out_camera_15__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12167: pr_out_camera_15__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12168: pr_out_camera_15__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12169: pr_out_camera_15__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C1217: pr_in_edge_3__obj_1__obj_5_copy_device_0__device_0_
+ - pr_out_edge_3__obj_1__obj_5_copy_device_0__device_0_
+ - sn_edge_3__obj_1__obj_5_copy_device_0__device_0_
+ - tr_camera_15___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ - tr_camera_16___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ - tr_camera_17___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ - tr_camera_18___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ - tr_camera_19___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ - tr_center___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ - tr_device_3___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ - tr_edge_0___edge_3__obj_1__obj_5_copy_device_0__device_0_
+ + tr_edge_3___camera_15__obj_1__obj_5_copy_device_0__device_0_
+ + tr_edge_3___camera_16__obj_1__obj_5_copy_device_0__device_0_
+ + tr_edge_3___camera_17__obj_1__obj_5_copy_device_0__device_0_
+ + tr_edge_3___camera_18__obj_1__obj_5_copy_device_0__device_0_
+ + tr_edge_3___camera_19__obj_1__obj_5_copy_device_0__device_0_
+ + tr_edge_3___center__obj_1__obj_5_copy_device_0__device_0_
+ + tr_edge_3___device_3__obj_1__obj_5_copy_device_0__device_0_
+ + tr_edge_3___edge_0__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C12170: pr_out_camera_15__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12171: pr_out_camera_15__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12172: pr_out_camera_15__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12173: pr_out_camera_15__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12174: pr_out_camera_15__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12175: pr_out_camera_15__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12176: pr_out_camera_15__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12177: pr_out_camera_16__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12178: pr_out_camera_16__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12179: pr_out_camera_16__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C1218: sn_edge_3__obj_1__obj_5_copy_device_0__device_0_ = 0
+_C12180: pr_out_camera_16__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12181: pr_out_camera_16__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12182: pr_out_camera_16__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12183: pr_out_camera_16__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12184: pr_out_camera_16__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12185: pr_out_camera_16__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12186: pr_out_camera_16__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12187: pr_out_camera_16__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12188: pr_out_camera_16__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12189: pr_out_camera_16__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C1219: pr_in_edge_3__obj_1__obj_5_copy_device_0__device_1_
+ - pr_out_edge_3__obj_1__obj_5_copy_device_0__device_1_
+ - sn_edge_3__obj_1__obj_5_copy_device_0__device_1_
+ - tr_camera_15___edge_3__obj_1__obj_5_copy_device_0__device_1_
+ - tr_camera_16___edge_3__obj_1__obj_5_copy_device_0__device_1_
+ - tr_camera_17___edge_3__obj_1__obj_5_copy_device_0__device_1_
+ - tr_camera_18___edge_3__obj_1__obj_5_copy_device_0__device_1_
+ - tr_camera_19___edge_3__obj_1__obj_5_copy_device_0__device_1_
+ - tr_center___edge_3__obj_1__obj_5_copy_device_0__device_1_
+ - tr_device_3___edge_3__obj_1__obj_5_copy_device_0__device_1_
+ - tr_edge_0___edge_3__obj_1__obj_5_copy_device_0__device_1_
+ + tr_edge_3___camera_15__obj_1__obj_5_copy_device_0__device_1_
+ + tr_edge_3___camera_16__obj_1__obj_5_copy_device_0__device_1_
+ + tr_edge_3___camera_17__obj_1__obj_5_copy_device_0__device_1_
+ + tr_edge_3___camera_18__obj_1__obj_5_copy_device_0__device_1_
+ + tr_edge_3___camera_19__obj_1__obj_5_copy_device_0__device_1_
+ + tr_edge_3___center__obj_1__obj_5_copy_device_0__device_1_
+ + tr_edge_3___device_3__obj_1__obj_5_copy_device_0__device_1_
+ + tr_edge_3___edge_0__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C12190: pr_out_camera_16__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12191: pr_out_camera_16__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12192: pr_out_camera_16__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12193: pr_out_camera_17__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12194: pr_out_camera_17__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12195: pr_out_camera_17__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12196: pr_out_camera_17__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12197: pr_out_camera_17__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12198: pr_out_camera_17__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12199: pr_out_camera_17__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C122: pr_in_center__obj_4__obj_5_copy_device_1__device_1_
+ - pr_out_center__obj_4__obj_5_copy_device_1__device_1_
+ - sn_center__obj_4__obj_5_copy_device_1__device_1_
+ + tr_center___edge_0__obj_4__obj_5_copy_device_1__device_1_
+ + tr_center___edge_1__obj_4__obj_5_copy_device_1__device_1_
+ + tr_center___edge_2__obj_4__obj_5_copy_device_1__device_1_
+ + tr_center___edge_3__obj_4__obj_5_copy_device_1__device_1_
+ - tr_edge_0___center__obj_4__obj_5_copy_device_1__device_1_
+ - tr_edge_1___center__obj_4__obj_5_copy_device_1__device_1_
+ - tr_edge_2___center__obj_4__obj_5_copy_device_1__device_1_
+ - tr_edge_3___center__obj_4__obj_5_copy_device_1__device_1_ = 0
+_C1220: sn_edge_3__obj_1__obj_5_copy_device_0__device_1_ = 0
+_C12200: pr_out_camera_17__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12201: pr_out_camera_17__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12202: pr_out_camera_17__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12203: pr_out_camera_17__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12204: pr_out_camera_17__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12205: pr_out_camera_17__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12206: pr_out_camera_17__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12207: pr_out_camera_17__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12208: pr_out_camera_17__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12209: pr_out_camera_18__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C1221: pr_in_edge_3__obj_1__obj_5_copy_device_0__device_2_
+ - pr_out_edge_3__obj_1__obj_5_copy_device_0__device_2_
+ - sn_edge_3__obj_1__obj_5_copy_device_0__device_2_
+ - tr_camera_15___edge_3__obj_1__obj_5_copy_device_0__device_2_
+ - tr_camera_16___edge_3__obj_1__obj_5_copy_device_0__device_2_
+ - tr_camera_17___edge_3__obj_1__obj_5_copy_device_0__device_2_
+ - tr_camera_18___edge_3__obj_1__obj_5_copy_device_0__device_2_
+ - tr_camera_19___edge_3__obj_1__obj_5_copy_device_0__device_2_
+ - tr_center___edge_3__obj_1__obj_5_copy_device_0__device_2_
+ - tr_device_3___edge_3__obj_1__obj_5_copy_device_0__device_2_
+ - tr_edge_0___edge_3__obj_1__obj_5_copy_device_0__device_2_
+ + tr_edge_3___camera_15__obj_1__obj_5_copy_device_0__device_2_
+ + tr_edge_3___camera_16__obj_1__obj_5_copy_device_0__device_2_
+ + tr_edge_3___camera_17__obj_1__obj_5_copy_device_0__device_2_
+ + tr_edge_3___camera_18__obj_1__obj_5_copy_device_0__device_2_
+ + tr_edge_3___camera_19__obj_1__obj_5_copy_device_0__device_2_
+ + tr_edge_3___center__obj_1__obj_5_copy_device_0__device_2_
+ + tr_edge_3___device_3__obj_1__obj_5_copy_device_0__device_2_
+ + tr_edge_3___edge_0__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C12210: pr_out_camera_18__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12211: pr_out_camera_18__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12212: pr_out_camera_18__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12213: pr_out_camera_18__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12214: pr_out_camera_18__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12215: pr_out_camera_18__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12216: pr_out_camera_18__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12217: pr_out_camera_18__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12218: pr_out_camera_18__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12219: pr_out_camera_18__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C1222: sn_edge_3__obj_1__obj_5_copy_device_0__device_2_ = 0
+_C12220: pr_out_camera_18__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12221: pr_out_camera_18__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12222: pr_out_camera_18__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12223: pr_out_camera_18__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12224: pr_out_camera_18__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12225: pr_out_camera_19__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12226: pr_out_camera_19__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12227: pr_out_camera_19__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12228: pr_out_camera_19__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12229: pr_out_camera_19__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C1223: pr_in_edge_3__obj_1__obj_5_copy_device_0__device_3_
+ - pr_out_edge_3__obj_1__obj_5_copy_device_0__device_3_
+ - sn_edge_3__obj_1__obj_5_copy_device_0__device_3_
+ - tr_camera_15___edge_3__obj_1__obj_5_copy_device_0__device_3_
+ - tr_camera_16___edge_3__obj_1__obj_5_copy_device_0__device_3_
+ - tr_camera_17___edge_3__obj_1__obj_5_copy_device_0__device_3_
+ - tr_camera_18___edge_3__obj_1__obj_5_copy_device_0__device_3_
+ - tr_camera_19___edge_3__obj_1__obj_5_copy_device_0__device_3_
+ - tr_center___edge_3__obj_1__obj_5_copy_device_0__device_3_
+ - tr_device_3___edge_3__obj_1__obj_5_copy_device_0__device_3_
+ - tr_edge_0___edge_3__obj_1__obj_5_copy_device_0__device_3_
+ + tr_edge_3___camera_15__obj_1__obj_5_copy_device_0__device_3_
+ + tr_edge_3___camera_16__obj_1__obj_5_copy_device_0__device_3_
+ + tr_edge_3___camera_17__obj_1__obj_5_copy_device_0__device_3_
+ + tr_edge_3___camera_18__obj_1__obj_5_copy_device_0__device_3_
+ + tr_edge_3___camera_19__obj_1__obj_5_copy_device_0__device_3_
+ + tr_edge_3___center__obj_1__obj_5_copy_device_0__device_3_
+ + tr_edge_3___device_3__obj_1__obj_5_copy_device_0__device_3_
+ + tr_edge_3___edge_0__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C12230: pr_out_camera_19__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12231: pr_out_camera_19__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12232: pr_out_camera_19__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12233: pr_out_camera_19__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12234: pr_out_camera_19__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12235: pr_out_camera_19__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12236: pr_out_camera_19__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12237: pr_out_camera_19__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12238: pr_out_camera_19__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12239: pr_out_camera_19__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C1224: sn_edge_3__obj_1__obj_5_copy_device_0__device_3_ = 0
+_C12240: pr_out_camera_19__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12241: pr_out_device_0__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12242: pr_out_device_0__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12243: pr_out_device_0__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12244: pr_out_device_0__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12245: pr_out_device_0__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12246: pr_out_device_0__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12247: pr_out_device_0__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12248: pr_out_device_0__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12249: pr_out_device_0__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C1225: pr_in_edge_3__obj_1__obj_5_copy_device_1__device_0_
+ - pr_out_edge_3__obj_1__obj_5_copy_device_1__device_0_
+ - sn_edge_3__obj_1__obj_5_copy_device_1__device_0_
+ - tr_camera_15___edge_3__obj_1__obj_5_copy_device_1__device_0_
+ - tr_camera_16___edge_3__obj_1__obj_5_copy_device_1__device_0_
+ - tr_camera_17___edge_3__obj_1__obj_5_copy_device_1__device_0_
+ - tr_camera_18___edge_3__obj_1__obj_5_copy_device_1__device_0_
+ - tr_camera_19___edge_3__obj_1__obj_5_copy_device_1__device_0_
+ - tr_center___edge_3__obj_1__obj_5_copy_device_1__device_0_
+ - tr_device_3___edge_3__obj_1__obj_5_copy_device_1__device_0_
+ - tr_edge_0___edge_3__obj_1__obj_5_copy_device_1__device_0_
+ + tr_edge_3___camera_15__obj_1__obj_5_copy_device_1__device_0_
+ + tr_edge_3___camera_16__obj_1__obj_5_copy_device_1__device_0_
+ + tr_edge_3___camera_17__obj_1__obj_5_copy_device_1__device_0_
+ + tr_edge_3___camera_18__obj_1__obj_5_copy_device_1__device_0_
+ + tr_edge_3___camera_19__obj_1__obj_5_copy_device_1__device_0_
+ + tr_edge_3___center__obj_1__obj_5_copy_device_1__device_0_
+ + tr_edge_3___device_3__obj_1__obj_5_copy_device_1__device_0_
+ + tr_edge_3___edge_0__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C12250: pr_out_device_0__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12251: pr_out_device_0__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12252: pr_out_device_0__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12253: pr_out_device_0__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12254: pr_out_device_0__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12255: pr_out_device_0__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12256: pr_out_device_0__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12257: pr_out_device_1__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12258: pr_out_device_1__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12259: pr_out_device_1__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C1226: sn_edge_3__obj_1__obj_5_copy_device_1__device_0_ = 0
+_C12260: pr_out_device_1__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12261: pr_out_device_1__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12262: pr_out_device_1__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12263: pr_out_device_1__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12264: pr_out_device_1__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12265: pr_out_device_1__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12266: pr_out_device_1__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12267: pr_out_device_1__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12268: pr_out_device_1__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12269: pr_out_device_1__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C1227: pr_in_edge_3__obj_1__obj_5_copy_device_1__device_1_
+ - pr_out_edge_3__obj_1__obj_5_copy_device_1__device_1_
+ - sn_edge_3__obj_1__obj_5_copy_device_1__device_1_
+ - tr_camera_15___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ - tr_camera_16___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ - tr_camera_17___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ - tr_camera_18___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ - tr_camera_19___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ - tr_center___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ - tr_device_3___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ - tr_edge_0___edge_3__obj_1__obj_5_copy_device_1__device_1_
+ + tr_edge_3___camera_15__obj_1__obj_5_copy_device_1__device_1_
+ + tr_edge_3___camera_16__obj_1__obj_5_copy_device_1__device_1_
+ + tr_edge_3___camera_17__obj_1__obj_5_copy_device_1__device_1_
+ + tr_edge_3___camera_18__obj_1__obj_5_copy_device_1__device_1_
+ + tr_edge_3___camera_19__obj_1__obj_5_copy_device_1__device_1_
+ + tr_edge_3___center__obj_1__obj_5_copy_device_1__device_1_
+ + tr_edge_3___device_3__obj_1__obj_5_copy_device_1__device_1_
+ + tr_edge_3___edge_0__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C12270: pr_out_device_1__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12271: pr_out_device_1__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12272: pr_out_device_1__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12273: pr_out_device_2__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C12274: pr_out_device_2__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12275: pr_out_device_2__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12276: pr_out_device_2__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12277: pr_out_device_2__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12278: pr_out_device_2__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12279: pr_out_device_2__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C1228: sn_edge_3__obj_1__obj_5_copy_device_1__device_1_ = 0
+_C12280: pr_out_device_2__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12281: pr_out_device_2__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12282: pr_out_device_2__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12283: pr_out_device_2__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C12284: pr_out_device_2__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12285: pr_out_device_2__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12286: pr_out_device_2__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12287: pr_out_device_2__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12288: pr_out_device_2__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12289: pr_out_device_3__obj_2__obj_5_copy_device_0__device_0_ = 0
+_C1229: pr_in_edge_3__obj_1__obj_5_copy_device_1__device_2_
+ - pr_out_edge_3__obj_1__obj_5_copy_device_1__device_2_
+ - sn_edge_3__obj_1__obj_5_copy_device_1__device_2_
+ - tr_camera_15___edge_3__obj_1__obj_5_copy_device_1__device_2_
+ - tr_camera_16___edge_3__obj_1__obj_5_copy_device_1__device_2_
+ - tr_camera_17___edge_3__obj_1__obj_5_copy_device_1__device_2_
+ - tr_camera_18___edge_3__obj_1__obj_5_copy_device_1__device_2_
+ - tr_camera_19___edge_3__obj_1__obj_5_copy_device_1__device_2_
+ - tr_center___edge_3__obj_1__obj_5_copy_device_1__device_2_
+ - tr_device_3___edge_3__obj_1__obj_5_copy_device_1__device_2_
+ - tr_edge_0___edge_3__obj_1__obj_5_copy_device_1__device_2_
+ + tr_edge_3___camera_15__obj_1__obj_5_copy_device_1__device_2_
+ + tr_edge_3___camera_16__obj_1__obj_5_copy_device_1__device_2_
+ + tr_edge_3___camera_17__obj_1__obj_5_copy_device_1__device_2_
+ + tr_edge_3___camera_18__obj_1__obj_5_copy_device_1__device_2_
+ + tr_edge_3___camera_19__obj_1__obj_5_copy_device_1__device_2_
+ + tr_edge_3___center__obj_1__obj_5_copy_device_1__device_2_
+ + tr_edge_3___device_3__obj_1__obj_5_copy_device_1__device_2_
+ + tr_edge_3___edge_0__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C12290: pr_out_device_3__obj_2__obj_5_copy_device_0__device_1_ = 0
+_C12291: pr_out_device_3__obj_2__obj_5_copy_device_0__device_2_ = 0
+_C12292: pr_out_device_3__obj_2__obj_5_copy_device_0__device_3_ = 0
+_C12293: pr_out_device_3__obj_2__obj_5_copy_device_1__device_0_ = 0
+_C12294: pr_out_device_3__obj_2__obj_5_copy_device_1__device_1_ = 0
+_C12295: pr_out_device_3__obj_2__obj_5_copy_device_1__device_2_ = 0
+_C12296: pr_out_device_3__obj_2__obj_5_copy_device_1__device_3_ = 0
+_C12297: pr_out_device_3__obj_2__obj_5_copy_device_2__device_0_ = 0
+_C12298: pr_out_device_3__obj_2__obj_5_copy_device_2__device_1_ = 0
+_C12299: pr_out_device_3__obj_2__obj_5_copy_device_2__device_2_ = 0
+_C123: - pr_in_center__obj_1__obj_5_copy_device_1__device_1_
+ + pr_out_center__obj_4__obj_5_copy_device_1__device_1_ <= 0
+_C1230: sn_edge_3__obj_1__obj_5_copy_device_1__device_2_ = 0
+_C12300: pr_out_device_3__obj_2__obj_5_copy_device_2__device_3_ = 0
+_C12301: pr_out_device_3__obj_2__obj_5_copy_device_3__device_0_ = 0
+_C12302: pr_out_device_3__obj_2__obj_5_copy_device_3__device_1_ = 0
+_C12303: pr_out_device_3__obj_2__obj_5_copy_device_3__device_2_ = 0
+_C12304: pr_out_device_3__obj_2__obj_5_copy_device_3__device_3_ = 0
+_C12305: pr_out_center__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C12306: pr_out_center__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C12307: pr_out_center__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C12308: pr_out_center__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C12309: pr_out_center__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C1231: pr_in_edge_3__obj_1__obj_5_copy_device_1__device_3_
+ - pr_out_edge_3__obj_1__obj_5_copy_device_1__device_3_
+ - sn_edge_3__obj_1__obj_5_copy_device_1__device_3_
+ - tr_camera_15___edge_3__obj_1__obj_5_copy_device_1__device_3_
+ - tr_camera_16___edge_3__obj_1__obj_5_copy_device_1__device_3_
+ - tr_camera_17___edge_3__obj_1__obj_5_copy_device_1__device_3_
+ - tr_camera_18___edge_3__obj_1__obj_5_copy_device_1__device_3_
+ - tr_camera_19___edge_3__obj_1__obj_5_copy_device_1__device_3_
+ - tr_center___edge_3__obj_1__obj_5_copy_device_1__device_3_
+ - tr_device_3___edge_3__obj_1__obj_5_copy_device_1__device_3_
+ - tr_edge_0___edge_3__obj_1__obj_5_copy_device_1__device_3_
+ + tr_edge_3___camera_15__obj_1__obj_5_copy_device_1__device_3_
+ + tr_edge_3___camera_16__obj_1__obj_5_copy_device_1__device_3_
+ + tr_edge_3___camera_17__obj_1__obj_5_copy_device_1__device_3_
+ + tr_edge_3___camera_18__obj_1__obj_5_copy_device_1__device_3_
+ + tr_edge_3___camera_19__obj_1__obj_5_copy_device_1__device_3_
+ + tr_edge_3___center__obj_1__obj_5_copy_device_1__device_3_
+ + tr_edge_3___device_3__obj_1__obj_5_copy_device_1__device_3_
+ + tr_edge_3___edge_0__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C12310: pr_out_center__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C12311: pr_out_center__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C12312: pr_out_center__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C12313: pr_out_center__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C12314: pr_out_center__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C12315: pr_out_center__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C12316: pr_out_center__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C12317: pr_out_center__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C12318: pr_out_center__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C12319: pr_out_center__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C1232: sn_edge_3__obj_1__obj_5_copy_device_1__device_3_ = 0
+_C12320: pr_out_center__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C12321: pr_out_edge_0__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C12322: pr_out_edge_0__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C12323: pr_out_edge_0__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C12324: pr_out_edge_0__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C12325: pr_out_edge_0__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C12326: pr_out_edge_0__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C12327: pr_out_edge_0__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C12328: pr_out_edge_0__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C12329: pr_out_edge_0__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C1233: pr_in_edge_3__obj_1__obj_5_copy_device_2__device_0_
+ - pr_out_edge_3__obj_1__obj_5_copy_device_2__device_0_
+ - sn_edge_3__obj_1__obj_5_copy_device_2__device_0_
+ - tr_camera_15___edge_3__obj_1__obj_5_copy_device_2__device_0_
+ - tr_camera_16___edge_3__obj_1__obj_5_copy_device_2__device_0_
+ - tr_camera_17___edge_3__obj_1__obj_5_copy_device_2__device_0_
+ - tr_camera_18___edge_3__obj_1__obj_5_copy_device_2__device_0_
+ - tr_camera_19___edge_3__obj_1__obj_5_copy_device_2__device_0_
+ - tr_center___edge_3__obj_1__obj_5_copy_device_2__device_0_
+ - tr_device_3___edge_3__obj_1__obj_5_copy_device_2__device_0_
+ - tr_edge_0___edge_3__obj_1__obj_5_copy_device_2__device_0_
+ + tr_edge_3___camera_15__obj_1__obj_5_copy_device_2__device_0_
+ + tr_edge_3___camera_16__obj_1__obj_5_copy_device_2__device_0_
+ + tr_edge_3___camera_17__obj_1__obj_5_copy_device_2__device_0_
+ + tr_edge_3___camera_18__obj_1__obj_5_copy_device_2__device_0_
+ + tr_edge_3___camera_19__obj_1__obj_5_copy_device_2__device_0_
+ + tr_edge_3___center__obj_1__obj_5_copy_device_2__device_0_
+ + tr_edge_3___device_3__obj_1__obj_5_copy_device_2__device_0_
+ + tr_edge_3___edge_0__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C12330: pr_out_edge_0__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C12331: pr_out_edge_0__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C12332: pr_out_edge_0__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C12333: pr_out_edge_0__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C12334: pr_out_edge_0__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C12335: pr_out_edge_0__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C12336: pr_out_edge_0__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C12337: pr_out_edge_1__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C12338: pr_out_edge_1__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C12339: pr_out_edge_1__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C1234: sn_edge_3__obj_1__obj_5_copy_device_2__device_0_ = 0
+_C12340: pr_out_edge_1__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C12341: pr_out_edge_1__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C12342: pr_out_edge_1__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C12343: pr_out_edge_1__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C12344: pr_out_edge_1__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C12345: pr_out_edge_1__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C12346: pr_out_edge_1__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C12347: pr_out_edge_1__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C12348: pr_out_edge_1__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C12349: pr_out_edge_1__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C1235: pr_in_edge_3__obj_1__obj_5_copy_device_2__device_1_
+ - pr_out_edge_3__obj_1__obj_5_copy_device_2__device_1_
+ - sn_edge_3__obj_1__obj_5_copy_device_2__device_1_
+ - tr_camera_15___edge_3__obj_1__obj_5_copy_device_2__device_1_
+ - tr_camera_16___edge_3__obj_1__obj_5_copy_device_2__device_1_
+ - tr_camera_17___edge_3__obj_1__obj_5_copy_device_2__device_1_
+ - tr_camera_18___edge_3__obj_1__obj_5_copy_device_2__device_1_
+ - tr_camera_19___edge_3__obj_1__obj_5_copy_device_2__device_1_
+ - tr_center___edge_3__obj_1__obj_5_copy_device_2__device_1_
+ - tr_device_3___edge_3__obj_1__obj_5_copy_device_2__device_1_
+ - tr_edge_0___edge_3__obj_1__obj_5_copy_device_2__device_1_
+ + tr_edge_3___camera_15__obj_1__obj_5_copy_device_2__device_1_
+ + tr_edge_3___camera_16__obj_1__obj_5_copy_device_2__device_1_
+ + tr_edge_3___camera_17__obj_1__obj_5_copy_device_2__device_1_
+ + tr_edge_3___camera_18__obj_1__obj_5_copy_device_2__device_1_
+ + tr_edge_3___camera_19__obj_1__obj_5_copy_device_2__device_1_
+ + tr_edge_3___center__obj_1__obj_5_copy_device_2__device_1_
+ + tr_edge_3___device_3__obj_1__obj_5_copy_device_2__device_1_
+ + tr_edge_3___edge_0__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C12350: pr_out_edge_1__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C12351: pr_out_edge_1__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C12352: pr_out_edge_1__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C12353: pr_out_edge_2__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C12354: pr_out_edge_2__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C12355: pr_out_edge_2__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C12356: pr_out_edge_2__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C12357: pr_out_edge_2__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C12358: pr_out_edge_2__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C12359: pr_out_edge_2__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C1236: sn_edge_3__obj_1__obj_5_copy_device_2__device_1_ = 0
+_C12360: pr_out_edge_2__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C12361: pr_out_edge_2__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C12362: pr_out_edge_2__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C12363: pr_out_edge_2__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C12364: pr_out_edge_2__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C12365: pr_out_edge_2__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C12366: pr_out_edge_2__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C12367: pr_out_edge_2__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C12368: pr_out_edge_2__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C12369: pr_out_edge_3__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C1237: pr_in_edge_3__obj_1__obj_5_copy_device_2__device_2_
+ - pr_out_edge_3__obj_1__obj_5_copy_device_2__device_2_
+ - sn_edge_3__obj_1__obj_5_copy_device_2__device_2_
+ - tr_camera_15___edge_3__obj_1__obj_5_copy_device_2__device_2_
+ - tr_camera_16___edge_3__obj_1__obj_5_copy_device_2__device_2_
+ - tr_camera_17___edge_3__obj_1__obj_5_copy_device_2__device_2_
+ - tr_camera_18___edge_3__obj_1__obj_5_copy_device_2__device_2_
+ - tr_camera_19___edge_3__obj_1__obj_5_copy_device_2__device_2_
+ - tr_center___edge_3__obj_1__obj_5_copy_device_2__device_2_
+ - tr_device_3___edge_3__obj_1__obj_5_copy_device_2__device_2_
+ - tr_edge_0___edge_3__obj_1__obj_5_copy_device_2__device_2_
+ + tr_edge_3___camera_15__obj_1__obj_5_copy_device_2__device_2_
+ + tr_edge_3___camera_16__obj_1__obj_5_copy_device_2__device_2_
+ + tr_edge_3___camera_17__obj_1__obj_5_copy_device_2__device_2_
+ + tr_edge_3___camera_18__obj_1__obj_5_copy_device_2__device_2_
+ + tr_edge_3___camera_19__obj_1__obj_5_copy_device_2__device_2_
+ + tr_edge_3___center__obj_1__obj_5_copy_device_2__device_2_
+ + tr_edge_3___device_3__obj_1__obj_5_copy_device_2__device_2_
+ + tr_edge_3___edge_0__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C12370: pr_out_edge_3__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C12371: pr_out_edge_3__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C12372: pr_out_edge_3__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C12373: pr_out_edge_3__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C12374: pr_out_edge_3__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C12375: pr_out_edge_3__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C12376: pr_out_edge_3__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C12377: pr_out_edge_3__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C12378: pr_out_edge_3__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C12379: pr_out_edge_3__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C1238: sn_edge_3__obj_1__obj_5_copy_device_2__device_2_ = 0
+_C12380: pr_out_edge_3__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C12381: pr_out_edge_3__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C12382: pr_out_edge_3__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C12383: pr_out_edge_3__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C12384: pr_out_edge_3__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C12385: pr_out_camera_0__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C12386: pr_out_camera_0__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C12387: pr_out_camera_0__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C12388: pr_out_camera_0__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C12389: pr_out_camera_0__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C1239: pr_in_edge_3__obj_1__obj_5_copy_device_2__device_3_
+ - pr_out_edge_3__obj_1__obj_5_copy_device_2__device_3_
+ - sn_edge_3__obj_1__obj_5_copy_device_2__device_3_
+ - tr_camera_15___edge_3__obj_1__obj_5_copy_device_2__device_3_
+ - tr_camera_16___edge_3__obj_1__obj_5_copy_device_2__device_3_
+ - tr_camera_17___edge_3__obj_1__obj_5_copy_device_2__device_3_
+ - tr_camera_18___edge_3__obj_1__obj_5_copy_device_2__device_3_
+ - tr_camera_19___edge_3__obj_1__obj_5_copy_device_2__device_3_
+ - tr_center___edge_3__obj_1__obj_5_copy_device_2__device_3_
+ - tr_device_3___edge_3__obj_1__obj_5_copy_device_2__device_3_
+ - tr_edge_0___edge_3__obj_1__obj_5_copy_device_2__device_3_
+ + tr_edge_3___camera_15__obj_1__obj_5_copy_device_2__device_3_
+ + tr_edge_3___camera_16__obj_1__obj_5_copy_device_2__device_3_
+ + tr_edge_3___camera_17__obj_1__obj_5_copy_device_2__device_3_
+ + tr_edge_3___camera_18__obj_1__obj_5_copy_device_2__device_3_
+ + tr_edge_3___camera_19__obj_1__obj_5_copy_device_2__device_3_
+ + tr_edge_3___center__obj_1__obj_5_copy_device_2__device_3_
+ + tr_edge_3___device_3__obj_1__obj_5_copy_device_2__device_3_
+ + tr_edge_3___edge_0__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C12390: pr_out_camera_0__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C12391: pr_out_camera_0__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C12392: pr_out_camera_0__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C12393: pr_out_camera_0__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C12394: pr_out_camera_0__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C12395: pr_out_camera_0__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C12396: pr_out_camera_0__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C12397: pr_out_camera_0__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C12398: pr_out_camera_0__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C12399: pr_out_camera_0__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C124: - pr_in_center__obj_2__obj_5_copy_device_1__device_1_
+ + pr_out_center__obj_4__obj_5_copy_device_1__device_1_ <= 0
+_C1240: sn_edge_3__obj_1__obj_5_copy_device_2__device_3_ = 0
+_C12400: pr_out_camera_0__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C12401: pr_out_camera_1__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C12402: pr_out_camera_1__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C12403: pr_out_camera_1__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C12404: pr_out_camera_1__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C12405: pr_out_camera_1__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C12406: pr_out_camera_1__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C12407: pr_out_camera_1__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C12408: pr_out_camera_1__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C12409: pr_out_camera_1__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C1241: pr_in_edge_3__obj_1__obj_5_copy_device_3__device_0_
+ - pr_out_edge_3__obj_1__obj_5_copy_device_3__device_0_
+ - sn_edge_3__obj_1__obj_5_copy_device_3__device_0_
+ - tr_camera_15___edge_3__obj_1__obj_5_copy_device_3__device_0_
+ - tr_camera_16___edge_3__obj_1__obj_5_copy_device_3__device_0_
+ - tr_camera_17___edge_3__obj_1__obj_5_copy_device_3__device_0_
+ - tr_camera_18___edge_3__obj_1__obj_5_copy_device_3__device_0_
+ - tr_camera_19___edge_3__obj_1__obj_5_copy_device_3__device_0_
+ - tr_center___edge_3__obj_1__obj_5_copy_device_3__device_0_
+ - tr_device_3___edge_3__obj_1__obj_5_copy_device_3__device_0_
+ - tr_edge_0___edge_3__obj_1__obj_5_copy_device_3__device_0_
+ + tr_edge_3___camera_15__obj_1__obj_5_copy_device_3__device_0_
+ + tr_edge_3___camera_16__obj_1__obj_5_copy_device_3__device_0_
+ + tr_edge_3___camera_17__obj_1__obj_5_copy_device_3__device_0_
+ + tr_edge_3___camera_18__obj_1__obj_5_copy_device_3__device_0_
+ + tr_edge_3___camera_19__obj_1__obj_5_copy_device_3__device_0_
+ + tr_edge_3___center__obj_1__obj_5_copy_device_3__device_0_
+ + tr_edge_3___device_3__obj_1__obj_5_copy_device_3__device_0_
+ + tr_edge_3___edge_0__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C12410: pr_out_camera_1__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C12411: pr_out_camera_1__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C12412: pr_out_camera_1__obj_3__obj_5_copy_device_2__device_3_ = 0
+_C12413: pr_out_camera_1__obj_3__obj_5_copy_device_3__device_0_ = 0
+_C12414: pr_out_camera_1__obj_3__obj_5_copy_device_3__device_1_ = 0
+_C12415: pr_out_camera_1__obj_3__obj_5_copy_device_3__device_2_ = 0
+_C12416: pr_out_camera_1__obj_3__obj_5_copy_device_3__device_3_ = 0
+_C12417: pr_out_camera_2__obj_3__obj_5_copy_device_0__device_0_ = 0
+_C12418: pr_out_camera_2__obj_3__obj_5_copy_device_0__device_1_ = 0
+_C12419: pr_out_camera_2__obj_3__obj_5_copy_device_0__device_2_ = 0
+_C1242: sn_edge_3__obj_1__obj_5_copy_device_3__device_0_ = 0
+_C12420: pr_out_camera_2__obj_3__obj_5_copy_device_0__device_3_ = 0
+_C12421: pr_out_camera_2__obj_3__obj_5_copy_device_1__device_0_ = 0
+_C12422: pr_out_camera_2__obj_3__obj_5_copy_device_1__device_1_ = 0
+_C12423: pr_out_camera_2__obj_3__obj_5_copy_device_1__device_2_ = 0
+_C12424: pr_out_camera_2__obj_3__obj_5_copy_device_1__device_3_ = 0
+_C12425: pr_out_camera_2__obj_3__obj_5_copy_device_2__device_0_ = 0
+_C12426: pr_out_camera_2__obj_3__obj_5_copy_device_2__device_1_ = 0
+_C12427: pr_out_camera_2__obj_3__obj_5_copy_device_2__device_2_ = 0
+_C12428: pr_out_camera_2__obj_3__obj_5_copy_device_2__device_3_ = 0
